@@ -1,0 +1,551 @@
+{
+ "v": 5,
+ "asof": "2026-11-24T08:12:42Z",
+ "region": "BE",
+ "headline": {
+  "en": "Storm warning on politics: the core cabinet failed again on 23 November and De Wever, with extra time from the King, convenes the five party chairs on Tuesday 24 November; Brent slid to about $89, a 12-week low.",
+  "nl": "Stormweer voor de politiek: het kernkabinet haalde op 23 november opnieuw geen akkoord en De Wever, met extra tijd van de koning, roept dinsdag 24 november de vijf partijvoorzitters samen; Brent zakte tot ongeveer 89 dollar, een laagste stand in 12 weken.",
+  "fr": "Alerte tempête sur la politique : le kern a de nouveau échoué le 23 novembre et De Wever, avec du temps supplémentaire accordé par le Roi, réunit les cinq présidents de parti le mardi 24 novembre ; le Brent a glissé vers 89 dollars, son plus bas en 12 semaines."
+ },
+ "climate": {
+  "geo": {
+   "lv": 2,
+   "be": {
+    "en": "Hormuz is still disrupted and Houthi and Iranian attacks continue, so Belgian firms keep watching energy costs and cyber risk, even though Brent has eased.",
+    "nl": "Hormuz blijft verstoord en de aanvallen van de Houthi's en Iran gaan door, dus Belgische bedrijven blijven energiekosten en cyberrisico in het oog houden, ook al is Brent gezakt.",
+    "fr": "Ormuz reste perturbé et les attaques houthies et iraniennes continuent : les entreprises belges gardent un œil sur les coûts énergétiques et le risque cyber, même si le Brent a reculé."
+   },
+   "gl": {
+    "en": "Brent fell to about $89 on 24 November, a 12-week low, as the IEA sees a supply surplus in the fourth quarter and US-Iran talks continue; Iran still demands the end of the US blockade and sanctions before fully reopening Hormuz.",
+    "nl": "Brent zakte op 24 november tot ongeveer 89 dollar, een laagste stand in 12 weken, doordat het IEA in het vierde kwartaal een aanbodoverschot ziet en de gesprekken VS-Iran doorgaan; Iran eist nog steeds het einde van de Amerikaanse blokkade en sancties voor een volledige heropening van Hormuz.",
+    "fr": "Le Brent est tombé vers 89 dollars le 24 novembre, un plus bas en 12 semaines, l'AIE voyant un excédent d'offre au quatrième trimestre et les discussions États-Unis–Iran se poursuivant ; l'Iran exige toujours la fin du blocus américain et des sanctions avant de rouvrir pleinement Ormuz."
+   }
+  },
+  "social": {
+   "lv": 2,
+   "be": {
+    "en": "The national march and strike of Monday 23 November are over; the next action is the non-profit march in Brussels on 10 December. Bankruptcies stood at 1,130 in October (Statbel) and the Commission sees unemployment at 6.4% this year.",
+    "nl": "De nationale betoging en staking van maandag 23 november zijn voorbij; de volgende actie is de betoging van de non-profit in Brussel op 10 december. In oktober waren er 1.130 faillissementen (Statbel) en de Commissie ziet de werkloosheid dit jaar op 6,4%.",
+    "fr": "La manifestation et la grève nationales du lundi 23 novembre sont derrière nous ; la prochaine action est la manifestation du non-marchand à Bruxelles le 10 décembre. On comptait 1 130 faillites en octobre (Statbel) et la Commission voit le chômage à 6,4 % cette année."
+   }
+  },
+  "econ": {
+   "lv": 2,
+   "be": {
+    "en": "Inflation stood at 5.26% in October (Statbel, via the Planning Bureau), which expects the pivot index to be exceeded in November; the European Commission sees growth of only 0.7% in 2026 and 0.8% in 2027.",
+    "nl": "De inflatie bedroeg 5,26% in oktober (Statbel, via het Planbureau), dat verwacht dat de spilindex in november overschreden wordt; de Europese Commissie ziet slechts 0,7% groei in 2026 en 0,8% in 2027.",
+    "fr": "L'inflation atteignait 5,26 % en octobre (Statbel, via le Bureau du Plan), qui attend un dépassement de l'indice-pivot en novembre ; la Commission européenne ne voit que 0,7 % de croissance en 2026 et 0,8 % en 2027."
+   },
+   "gl": {
+    "en": "Euro area inflation reached 3.8% in September (Eurostat) and keeps rising with energy; the ECB deposit rate stays at 2.50% since September.",
+    "nl": "De inflatie in de eurozone bereikte 3,8% in september (Eurostat) en stijgt verder door energie; de depositorente van de ECB staat sinds september op 2,50%.",
+    "fr": "L'inflation de la zone euro atteignait 3,8 % en septembre (Eurostat) et continue de monter avec l'énergie ; le taux de dépôt de la BCE reste à 2,50 % depuis septembre."
+   }
+  },
+  "fiscal": {
+   "lv": 2,
+   "be": {
+    "en": "Fitch affirmed Belgium at A+ stable on 20 November but warned about rising debt; with no federal budget yet, provisional twelfths cover January to March 2027, and De Wever warns the government cannot govern without a budget deal before they take effect. The Commission sees the deficit at 5.2% of GDP this year and 5.5% in 2027.",
+    "nl": "Fitch bevestigde België op A+ stabiel op 20 november maar waarschuwde voor de oplopende schuld; zonder federale begroting dekken voorlopige twaalfden januari tot maart 2027, en De Wever waarschuwt dat de regering zonder begrotingsakkoord voor ze ingaan niet kan blijven regeren. De Commissie ziet het tekort op 5,2% van het bbp dit jaar en 5,5% in 2027.",
+    "fr": "Fitch a confirmé la Belgique à A+ stable le 20 novembre tout en mettant en garde contre la hausse de la dette ; sans budget fédéral, des douzièmes provisoires couvrent janvier à mars 2027, et De Wever prévient que le gouvernement ne pourra plus gouverner sans accord budgétaire avant leur entrée en vigueur. La Commission voit le déficit à 5,2 % du PIB cette année et 5,5 % en 2027."
+   }
+  },
+  "fr": {
+   "en": "The French Senate adopted the 2027 social security budget on 18 November (201 votes to 124) and a joint committee meets on 26 November, where agreement looks unlikely; the main budget keeps a final vote on 9 December and a constitutional deadline on 17 December.",
+   "nl": "De Franse Senaat keurde de sociale-zekerheidsbegroting 2027 goed op 18 november (201 stemmen tegen 124) en een gemengde commissie vergadert op 26 november, waar een akkoord onwaarschijnlijk lijkt; voor de hoofdbegroting blijven de eindstemming op 9 december en de grondwettelijke deadline op 17 december gelden.",
+   "fr": "Le Sénat a adopté le budget de la Sécurité sociale 2027 le 18 novembre (201 voix contre 124) et une commission mixte paritaire se réunit le 26 novembre, où un accord paraît peu probable ; pour le budget principal, le vote solennel du 9 décembre et l'échéance constitutionnelle du 17 décembre restent d'actualité."
+  }
+ },
+ "themes": {
+  "econ": {
+   "lv": 2,
+   "sec": {
+    "build": -1,
+    "transport": -1,
+    "retail": -1,
+    "hospitality": -1,
+    "prof": 0,
+    "industry": -1,
+    "health": 0,
+    "tech": 0,
+    "other": 0
+   },
+   "brief": {
+    "en": "Inflation at 5.26% in October; Commission sees growth of just 0.7% this year.",
+    "nl": "Inflatie op 5,26% in oktober; de Commissie ziet dit jaar amper 0,7% groei.",
+    "fr": "Inflation à 5,26 % en octobre ; la Commission ne voit que 0,7 % de croissance cette année."
+   },
+   "thr": {
+    "en": "Costs and wage indexation could rise faster than prices, squeezing margins over the winter.",
+    "nl": "Kosten en loonindexering kunnen sneller stijgen dan de prijzen en de marges deze winter onder druk zetten.",
+    "fr": "Les coûts et l'indexation des salaires pourraient augmenter plus vite que les prix et comprimer les marges cet hiver."
+   },
+   "opp": {
+    "en": "A clear indexation clause in quotes could turn cost rises into a price clients accept.",
+    "nl": "Een duidelijke indexeringsclausule in offertes zou kostenstijgingen kunnen omzetten in een prijs die klanten aanvaarden.",
+    "fr": "Une clause d'indexation claire dans les devis pourrait transformer les hausses de coûts en un prix accepté par les clients."
+   }
+  },
+  "labour": {
+   "lv": 2,
+   "sec": {
+    "build": 0,
+    "transport": -1,
+    "retail": -1,
+    "hospitality": -1,
+    "prof": 0,
+    "industry": -1,
+    "health": -1,
+    "tech": 0,
+    "other": 0
+   },
+   "brief": {
+    "en": "1,130 bankruptcies in October (Statbel); pivot index expected in November; GSK and Vynova shed industrial jobs.",
+    "nl": "1.130 faillissementen in oktober (Statbel); spilindex verwacht in november; GSK en Vynova schrappen industriële jobs.",
+    "fr": "1 130 faillites en octobre (Statbel) ; indice-pivot attendu en novembre ; GSK et Vynova suppriment des emplois industriels."
+   },
+   "thr": {
+    "en": "Indexation raises payroll before revenue follows, and budget talks may still change wage and holiday rules.",
+    "nl": "De indexering verhoogt de loonkost voor de omzet volgt, en de begrotingsgesprekken kunnen loon- en feestdagregels nog wijzigen.",
+    "fr": "L'indexation alourdit la masse salariale avant que le chiffre d'affaires ne suive, et le budget pourrait encore modifier les règles salariales et les jours fériés."
+   },
+   "opp": {
+    "en": "Clear communication on total pay and benefits could help retain staff while purchasing power is under pressure.",
+    "nl": "Duidelijke communicatie over het totale loonpakket zou kunnen helpen om personeel te behouden nu de koopkracht onder druk staat.",
+    "fr": "Une communication claire sur la rémunération globale pourrait aider à fidéliser le personnel alors que le pouvoir d'achat est sous pression."
+   }
+  },
+  "geo": {
+   "lv": 2,
+   "sec": {
+    "build": 1,
+    "transport": -1,
+    "retail": 0,
+    "hospitality": -1,
+    "prof": 0,
+    "industry": -1,
+    "health": 0,
+    "tech": 1,
+    "other": 0
+   },
+   "brief": {
+    "en": "Brent at a 12-week low near $89, but Hormuz remains disrupted and attacks continue.",
+    "nl": "Brent op een laagste stand in 12 weken rond 89 dollar, maar Hormuz blijft verstoord en de aanvallen gaan door.",
+    "fr": "Brent à un plus bas en 12 semaines vers 89 dollars, mais Ormuz reste perturbé et les attaques continuent."
+   },
+   "thr": {
+    "en": "Energy costs could rebound quickly if talks fail, and geopolitical tension keeps cyber risk raised.",
+    "nl": "De energiekosten kunnen snel weer stijgen als de gesprekken mislukken, en geopolitieke spanning houdt het cyberrisico verhoogd.",
+    "fr": "Les coûts énergétiques pourraient rebondir vite si les discussions échouent, et la tension géopolitique maintient le risque cyber élevé."
+   },
+   "opp": {
+    "en": "Demand for energy savings and secure digital services could grow as companies seek to reduce their exposure.",
+    "nl": "De vraag naar energiebesparing en veilige digitale diensten zou kunnen groeien nu bedrijven hun blootstelling willen beperken.",
+    "fr": "La demande d'économies d'énergie et de services numériques sécurisés pourrait croître, les entreprises cherchant à réduire leur exposition."
+   }
+  },
+  "politics": {
+   "lv": 3,
+   "sec": {
+    "build": -1,
+    "transport": 0,
+    "retail": 0,
+    "hospitality": -1,
+    "prof": 1,
+    "industry": 0,
+    "health": -1,
+    "tech": 0,
+    "other": 0
+   },
+   "brief": {
+    "en": "Core cabinet failed again on 23 November; party chairs meet De Wever on 24 November, with a year-end deadline.",
+    "nl": "Kernkabinet haalde op 23 november opnieuw geen akkoord; partijvoorzitters bij De Wever op 24 november, met deadline eind van het jaar.",
+    "fr": "Le kern a de nouveau échoué le 23 novembre ; les présidents de parti voient De Wever le 24 novembre, avec une échéance fin d'année."
+   },
+   "thr": {
+    "en": "A government collapse would freeze public orders and delay tax and labour decisions for months.",
+    "nl": "Een val van de regering zou overheidsopdrachten bevriezen en fiscale en arbeidsbeslissingen maanden uitstellen.",
+    "fr": "Une chute du gouvernement gèlerait les commandes publiques et retarderait de plusieurs mois les décisions fiscales et sociales."
+   },
+   "opp": {
+    "en": "Uncertainty on taxes and pensions could raise demand for clear advice, and firms ready with two scenarios could act first.",
+    "nl": "Onzekerheid over belastingen en pensioenen zou de vraag naar helder advies kunnen verhogen, en bedrijven met twee scenario's klaar zouden eerst kunnen handelen.",
+    "fr": "L'incertitude sur la fiscalité et les pensions pourrait accroître la demande de conseils clairs, et les entreprises prêtes avec deux scénarios pourraient agir les premières."
+   }
+  },
+  "fiscal": {
+   "lv": 2,
+   "sec": {
+    "build": -1,
+    "transport": 0,
+    "retail": -1,
+    "hospitality": -1,
+    "prof": 1,
+    "industry": 0,
+    "health": -1,
+    "tech": 0,
+    "other": 0
+   },
+   "brief": {
+    "en": "Fitch keeps Belgium at A+ stable; deficit 5.2% of GDP; no budget deal yet, provisional twelfths for early 2027.",
+    "nl": "Fitch houdt België op A+ stabiel; tekort 5,2% van het bbp; nog geen begrotingsakkoord, voorlopige twaalfden voor begin 2027.",
+    "fr": "Fitch maintient la Belgique à A+ stable ; déficit de 5,2 % du PIB ; pas encore d'accord budgétaire, douzièmes provisoires début 2027."
+   },
+   "thr": {
+    "en": "VAT, tax and indexation rules for 2027 remain unknown, and a later downgrade would raise borrowing costs.",
+    "nl": "De btw-, belasting- en indexeringsregels voor 2027 blijven onbekend, en een latere verlaging van de rating zou lenen duurder maken.",
+    "fr": "Les règles de TVA, de fiscalité et d'indexation pour 2027 restent inconnues, et une dégradation ultérieure renchérirait le crédit."
+   },
+   "opp": {
+    "en": "Questions on 2027 taxes could drive demand for advice, and a firm with a clear cash plan could keep investing while others wait.",
+    "nl": "Vragen over de belastingen van 2027 zouden de vraag naar advies kunnen aanwakkeren, en een bedrijf met een helder cashplan zou kunnen blijven investeren terwijl anderen wachten.",
+    "fr": "Les questions sur la fiscalité 2027 pourraient stimuler la demande de conseil, et une entreprise dotée d'un plan de trésorerie clair pourrait continuer à investir pendant que d'autres attendent."
+   }
+  },
+  "social": {
+   "lv": 2,
+   "sec": {
+    "build": 0,
+    "transport": -1,
+    "retail": -1,
+    "hospitality": -1,
+    "prof": 0,
+    "industry": -1,
+    "health": -1,
+    "tech": 0,
+    "other": 0
+   },
+   "brief": {
+    "en": "The 23 November strike is over; the next action is the non-profit march on 10 December.",
+    "nl": "De staking van 23 november is voorbij; de volgende actie is de non-profitbetoging op 10 december.",
+    "fr": "La grève du 23 novembre est terminée ; la prochaine action est la manifestation du non-marchand le 10 décembre."
+   },
+   "thr": {
+    "en": "Further union actions could again disrupt transport and appointments, with the non-profit sector marching on 10 December.",
+    "nl": "Verdere vakbondsacties kunnen het vervoer en afspraken opnieuw verstoren, met de non-profit die op 10 december betoogt.",
+    "fr": "De nouvelles actions syndicales pourraient à nouveau perturber transports et rendez-vous, avec le non-marchand dans la rue le 10 décembre."
+   },
+   "opp": {
+    "en": "A company with remote-work and rescheduling plans ready ahead of 10 December could keep serving clients smoothly.",
+    "nl": "Een bedrijf dat vóór 10 december telewerk- en verplaatsingsplannen klaar heeft, zou klanten vlot kunnen blijven bedienen.",
+    "fr": "Une entreprise qui prépare télétravail et reports de rendez-vous avant le 10 décembre pourrait continuer à servir ses clients sans accroc."
+   }
+  },
+  "fr": {
+   "lv": 2,
+   "sec": {
+    "build": 0,
+    "transport": -1,
+    "retail": 0,
+    "hospitality": 0,
+    "prof": 0,
+    "industry": -1,
+    "health": 0,
+    "tech": 0,
+    "other": 0
+   },
+   "brief": {
+    "en": "French Senate adopted the social security budget on 18 November; joint committee on 26 November, main budget vote on 9 December.",
+    "nl": "Franse Senaat keurde de sociale-zekerheidsbegroting goed op 18 november; gemengde commissie op 26 november, stemming over de hoofdbegroting op 9 december.",
+    "fr": "Le Sénat a adopté le budget de la Sécurité sociale le 18 novembre ; CMP le 26 novembre, vote sur le budget principal le 9 décembre."
+   },
+   "thr": {
+    "en": "French tax rules could still change before year end, delaying French clients' investment decisions.",
+    "nl": "De Franse fiscale regels kunnen nog wijzigen voor het jaareinde, wat investeringsbeslissingen van Franse klanten vertraagt.",
+    "fr": "Les règles fiscales françaises pourraient encore changer d'ici la fin de l'année et retarder les décisions d'investissement des clients français."
+   },
+   "opp": {
+    "en": "A stable offer with prices fixed for 2027 could stand out for French clients waiting on their budget.",
+    "nl": "Een stabiel aanbod met vaste prijzen voor 2027 zou kunnen opvallen bij Franse klanten die op hun begroting wachten.",
+    "fr": "Une offre stable à prix fixes pour 2027 pourrait se démarquer auprès de clients français qui attendent leur budget."
+   }
+  }
+ },
+ "sectors": {
+  "build": {
+   "lv": 2,
+   "s": -1,
+   "fn": "fin",
+   "ch": {
+    "en": "Seven in ten construction firms report order books below normal (Embuild), and public works may slow while the state runs on provisional twelfths into 2027.",
+    "nl": "Zeven op tien bouwbedrijven melden een orderboek onder normaal (Embuild), en openbare werken kunnen vertragen nu de staat tot in 2027 met voorlopige twaalfden werkt.",
+    "fr": "Sept entreprises de construction sur dix signalent un carnet de commandes sous la normale (Embuild), et les travaux publics pourraient ralentir avec des douzièmes provisoires jusqu'en 2027."
+   },
+   "op": {
+    "en": "A clear, priced energy-renovation offer could keep the order book filled while energy stays expensive.",
+    "nl": "Een duidelijk, geprijsd aanbod voor energierenovatie zou het orderboek gevuld kunnen houden nu energie duur blijft.",
+    "fr": "Une offre de rénovation énergétique claire et chiffrée pourrait maintenir le carnet de commandes alors que l'énergie reste chère."
+   }
+  },
+  "transport": {
+   "lv": 3,
+   "s": -1,
+   "fn": "fleet",
+   "ch": {
+    "en": "Statbel counted a record 633 bankruptcies in transport and storage from January to September (Logistiek.be); the higher kilometre charge and still-volatile fuel prices add pressure, even with Brent near $89.",
+    "nl": "Statbel telde een recordaantal van 633 faillissementen in vervoer en opslag van januari tot september (Logistiek.be); de hogere kilometerheffing en nog steeds volatiele brandstofprijzen verhogen de druk, ook met Brent rond 89 dollar.",
+    "fr": "Statbel a recensé un record de 633 faillites dans le transport et l'entreposage de janvier à septembre (Logistiek.be) ; la redevance kilométrique plus élevée et des prix du carburant encore volatils accentuent la pression, même avec un Brent vers 89 dollars."
+   },
+   "op": {
+    "en": "A clear fuel and index clause in rates, backed by route data, could turn cost increases into a fair, accepted price.",
+    "nl": "Een duidelijke brandstof- en indexclausule in de tarieven, gestaafd met routegegevens, zou kostenstijgingen kunnen omzetten in een eerlijke, aanvaarde prijs.",
+    "fr": "Une clause carburant et indexation claire dans les tarifs, appuyée par des données de trajets, pourrait transformer les hausses de coûts en un prix juste et accepté."
+   }
+  },
+  "retail": {
+   "lv": 2,
+   "s": -1,
+   "fn": "mkt",
+   "ch": {
+    "en": "Four in five consumers try to save on shopping (UNIZO/Comeos), a VAT increase is on the budget table and Asian platforms keep pushing prices down during Black November.",
+    "nl": "Vier op vijf consumenten proberen te besparen op aankopen (UNIZO/Comeos), een btw-verhoging ligt op de begrotingstafel en Aziatische platformen drukken de prijzen tijdens Black November.",
+    "fr": "Quatre consommateurs sur cinq cherchent à économiser sur leurs achats (UNIZO/Comeos), une hausse de TVA est sur la table du budget et les plateformes asiatiques tirent les prix vers le bas pendant le Black November."
+   },
+   "op": {
+    "en": "Service, advice and local trust could win year-end sales more surely than a discount war.",
+    "nl": "Service, advies en lokaal vertrouwen zouden de eindejaarsverkoop zekerder kunnen winnen dan een kortingsoorlog.",
+    "fr": "Le service, le conseil et la confiance locale pourraient gagner les ventes de fin d'année plus sûrement qu'une guerre des prix."
+   }
+  },
+  "hospitality": {
+   "lv": 3,
+   "s": -1,
+   "fn": "fin",
+   "ch": {
+    "en": "A VAT increase is among the budget measures under discussion, on top of wage indexation and expensive energy, while the stalled budget keeps the outcome uncertain.",
+    "nl": "Een btw-verhoging ligt op tafel in de begrotingsgesprekken, bovenop de loonindexering en dure energie, terwijl de vastgelopen begroting de uitkomst onzeker houdt.",
+    "fr": "Une hausse de TVA figure parmi les mesures budgétaires discutées, en plus de l'indexation des salaires et d'une énergie chère, tandis que le blocage budgétaire laisse l'issue incertaine."
+   },
+   "op": {
+    "en": "Knowing the margin per dish and running a tight rota could help absorb a VAT or wage change better than competitors.",
+    "nl": "Wie de marge per gerecht kent en een strakke planning hanteert, zou een btw- of loonwijziging beter kunnen opvangen dan concurrenten.",
+    "fr": "Connaître la marge par plat et tenir un planning serré pourrait aider à absorber une hausse de TVA ou de salaires mieux que la concurrence."
+   }
+  },
+  "prof": {
+   "lv": 1,
+   "s": 1,
+   "fn": "strat",
+   "ch": {
+    "en": "Clients delay decisions while the budget hangs and provisional twelfths run into 2027, and AI tools change what clients are willing to pay for.",
+    "nl": "Klanten stellen beslissingen uit zolang de begroting hangt en de voorlopige twaalfden tot in 2027 lopen, en AI-tools veranderen waarvoor klanten willen betalen.",
+    "fr": "Les clients reportent leurs décisions tant que le budget est bloqué et que les douzièmes provisoires courent jusqu'en 2027, et l'IA change ce que les clients acceptent de payer."
+   },
+   "op": {
+    "en": "A clear offer on the 2027 changes in VAT, indexation and pensions could win clients looking for certainty.",
+    "nl": "Een helder aanbod over de wijzigingen van 2027 in btw, indexering en pensioenen zou klanten op zoek naar zekerheid kunnen winnen.",
+    "fr": "Une offre claire sur les changements 2027 en matière de TVA, d'indexation et de pensions pourrait séduire des clients en quête de certitude."
+   }
+  },
+  "industry": {
+   "lv": 3,
+   "s": -1,
+   "fn": "chg",
+   "ch": {
+    "en": "Almost 30% of factory machines stand idle (Agoria), Vynova went bankrupt and GSK is restructuring while energy stays expensive.",
+    "nl": "Bijna 30% van de machines in fabrieken staat stil (Agoria), Vynova ging failliet en GSK herstructureert terwijl energie duur blijft.",
+    "fr": "Près de 30 % des machines d'usine sont à l'arrêt (Agoria), Vynova a fait faillite et GSK se restructure alors que l'énergie reste chère."
+   },
+   "op": {
+    "en": "Efficient energy use and flexible capacity could become a real competitive edge when demand returns.",
+    "nl": "Efficiënt energiegebruik en flexibele capaciteit zouden een echt concurrentievoordeel kunnen worden wanneer de vraag terugkeert.",
+    "fr": "Une consommation d'énergie efficace et une capacité flexible pourraient devenir un vrai avantage concurrentiel quand la demande reviendra."
+   }
+  },
+  "health": {
+   "lv": 2,
+   "s": -1,
+   "fn": "fin",
+   "ch": {
+    "en": "Health-care savings remain open in the stalled budget talks and the non-profit sector marches in Brussels on 10 December.",
+    "nl": "Besparingen in de gezondheidszorg liggen nog open in de vastgelopen begrotingsgesprekken en de non-profit betoogt op 10 december in Brussel.",
+    "fr": "Les économies dans les soins de santé restent ouvertes dans des discussions budgétaires bloquées et le non-marchand manifeste à Bruxelles le 10 décembre."
+   },
+   "op": {
+    "en": "Shared administration and digital processes could free up care time and make an organisation more resilient to tight budgets.",
+    "nl": "Gedeelde administratie en digitale processen zouden zorgtijd kunnen vrijmaken en een organisatie weerbaarder maken tegen krappe budgetten.",
+    "fr": "Une administration partagée et des processus numériques pourraient libérer du temps de soin et rendre une organisation plus résistante aux budgets serrés."
+   }
+  },
+  "tech": {
+   "lv": 1,
+   "s": 1,
+   "fn": "mkt",
+   "ch": {
+    "en": "AI raises competition as more start-ups work on the same problems, while Agoria counts 20,000 lost jobs in the technology industry in three years.",
+    "nl": "AI verhoogt de concurrentie omdat meer start-ups aan dezelfde problemen werken, terwijl Agoria 20.000 verloren jobs telt in de technologische industrie in drie jaar.",
+    "fr": "L'IA accroît la concurrence, davantage de start-ups travaillant sur les mêmes problèmes, tandis qu'Agoria compte 20 000 emplois perdus dans l'industrie technologique en trois ans."
+   },
+   "op": {
+    "en": "A concrete automation or cybersecurity offer with a quick payback could appeal to companies under cost and risk pressure.",
+    "nl": "Een concreet aanbod voor automatisering of cyberveiligheid met snelle terugverdientijd zou bedrijven onder kosten- en risicodruk kunnen aanspreken.",
+    "fr": "Une offre concrète d'automatisation ou de cybersécurité à retour rapide pourrait séduire des entreprises sous pression des coûts et des risques."
+   }
+  },
+  "other": {
+   "lv": 2,
+   "s": 0,
+   "fn": "strat",
+   "ch": {
+    "en": "Inflation above 5%, the pivot index expected in November and the open budget weigh on most companies this month.",
+    "nl": "Inflatie boven 5%, de verwachte spilindex in november en de open begroting wegen deze maand op de meeste bedrijven.",
+    "fr": "Une inflation supérieure à 5 %, l'indice-pivot attendu en novembre et le budget ouvert pèsent ce mois-ci sur la plupart des entreprises."
+   },
+   "op": {
+    "en": "A company that plans in two scenarios and adjusts prices early could move first when the budget lands.",
+    "nl": "Een bedrijf dat in twee scenario's plant en zijn prijzen tijdig aanpast, zou als eerste kunnen bewegen wanneer de begroting er is.",
+    "fr": "Une entreprise qui planifie selon deux scénarios et ajuste ses prix à temps pourrait bouger la première quand le budget tombera."
+   }
+  }
+ },
+ "sector_sources": [
+  {
+   "t": "Logistiek.be: record bankruptcies in Belgian transport and storage, Statbel (28 Oct 2026)",
+   "u": "https://www.logistiek.be/recordaantal-faillissementen-in-belgische-vervoer-en-opslag-druk-blijft-hoog/"
+  },
+  {
+   "t": "VRT: almost 3 in 10 factory machines idle (28 Oct 2026)",
+   "u": "https://www.vrt.be/vrtnws/en/2026/10/28/almost-3-in-10-machines-in-belgian-factories-stand-idle/"
+  },
+  {
+   "t": "La DH: horeca fears VAT increase (20 Oct 2026)",
+   "u": "https://www.dhnet.be/dernieres-depeches/2026/10/20/budget-federal-lhoreca-bruxellois-et-wallon-redoute-une-hausse-de-la-tva-HQJCEBPYWVFWPFIVZ7DO366YEQ/"
+  },
+  {
+   "t": "UNIZO: Weekend van de Klant consumer survey (3 Oct 2026)",
+   "u": "https://www.unizo.be/berichten/pers/acht-op-de-tien-belgen-plannen-shoppinguitstap-tijdens-weekend-van-de-klant"
+  },
+  {
+   "t": "La DH/Belga: falling orders worry construction (17 Sep 2026)",
+   "u": "https://www.dhnet.be/dernieres-depeches/2026/09/17/la-baisse-des-commandes-inquiete-le-secteur-de-la-construction-XXQETJ6CPFAITITDBMKWUG6CHU/"
+  },
+  {
+   "t": "CSC: non-profit national demonstration on 10 December (16 Oct 2026)",
+   "u": "https://www.lacsc.be/page-dactualites/2026/10/16/non-marchand---une-grande-manifestation-nationale-le-10-decembre-a-bruxelles"
+  },
+  {
+   "t": "DHL Freight: Belgian kilometre levy from 1 July 2026",
+   "u": "https://www.dhl.com/content/dam/dhl/global/dhl-freight/documents/pdf/freight-kilometer-levy-Belgium.pdf.coredownload.pdf"
+  },
+  {
+   "t": "BDO: Belgian start-up market 2026",
+   "u": "https://www.bdo.be/en-gb/news/2026/belgian-start-up-market-gets-a-boost-from-next-gen-start-ups"
+  }
+ ],
+ "levels": {
+  "econ": 2,
+  "labour": 2,
+  "geo": 2,
+  "politics": 3,
+  "fiscal": 2,
+  "social": 2,
+  "fr": 2,
+  "gl": 2
+ },
+ "l": {
+  "en": {
+   "econ": "Belgian inflation reached 5.26% in October, driven by energy, and the Planning Bureau expects the pivot index to be exceeded in November. The European Commission's autumn forecast sees growth of 0.7% in 2026 and 0.8% in 2027.",
+   "labour": "The Commission sees unemployment at 6.4% this year. Statbel counted 1,130 bankruptcies in October, and collective-dismissal notices covered 5,115 workers in the first half of 2026. Indexation lifts wages while industrial sites such as GSK and Vynova shed jobs.",
+   "geo": "Brent fell to about $89 on 24 November, a 12-week low, while Hormuz remains disrupted: flows averaged about 9.5 million barrels a day in the ten days to 19 November, against 12.2 million in October. US-Iran talks continue, with no confirmed deal. Geopolitical tension keeps cyber risk raised for Belgian firms.",
+   "politics": "The core cabinet met on Monday 23 November from 9:35 and ended around 11:10 without agreement. De Wever then saw the King, who regretted the lack of progress and gave him more time. De Wever said agreement within the core cabinet is impossible because one coalition partner does not accept the balance of the budget table, and called the five party chairs together on Tuesday 24 November at 16:00. He warns that without a budget deal before the provisional twelfths take effect, around the end of the year, the government cannot govern.",
+   "fiscal": "Fitch affirmed Belgium at A+ stable on 20 November, after Moody's and S&P, but warned about rising debt. The Commission sees the deficit at 5.2% of GDP in 2026 and 5.5% in 2027; provisional twelfths cover January to March 2027.",
+   "social": "The national march and strike of Monday 23 November are over. The next announced action is the non-profit march in Brussels on 10 December. Bankruptcies stood at 1,130 in October and unemployment is seen at 6.4% this year.",
+   "fr": "The French Senate adopted the 2027 social security budget at first reading on 18 November, by 201 votes to 124, and a joint committee meets on 26 November where agreement looks unlikely. For the main 2027 budget, the final vote is on 9 December and the constitutional deadline is 17 December.",
+   "gl": "Euro area inflation reached 3.8% in September (Eurostat). The ECB deposit rate stays at 2.50%."
+  },
+  "nl": {
+   "econ": "De Belgische inflatie bereikte 5,26% in oktober, gedreven door energie, en het Planbureau verwacht dat de spilindex in november overschreden wordt. De herfstprognose van de Europese Commissie ziet 0,7% groei in 2026 en 0,8% in 2027.",
+   "labour": "De Commissie ziet de werkloosheid dit jaar op 6,4%. Statbel telde 1.130 faillissementen in oktober, en in de eerste helft van 2026 betroffen aangekondigde collectieve ontslagen 5.115 werknemers. Indexering verhoogt de lonen terwijl industriële sites zoals GSK en Vynova banen schrappen.",
+   "geo": "Brent zakte op 24 november tot ongeveer 89 dollar, een laagste stand in 12 weken, terwijl Hormuz verstoord blijft: de stromen bedroegen in de tien dagen tot 19 november gemiddeld ongeveer 9,5 miljoen vaten per dag, tegenover 12,2 miljoen in oktober. De gesprekken VS-Iran gaan door, zonder bevestigd akkoord. Geopolitieke spanning houdt het cyberrisico voor Belgische bedrijven verhoogd.",
+   "politics": "Het kernkabinet vergaderde maandag 23 november vanaf 9.35 uur en eindigde rond 11.10 uur zonder akkoord. De Wever ging daarna naar de koning, die de gebrekkige vooruitgang betreurde en hem extra tijd gaf. De Wever zei dat een akkoord binnen het kernkabinet onmogelijk is omdat één coalitiepartner het evenwicht van de begrotingstabel niet aanvaardt, en riep de vijf partijvoorzitters samen op dinsdag 24 november om 16 uur. Hij waarschuwt dat de regering zonder begrotingsakkoord voor de voorlopige twaalfden ingaan, rond het einde van het jaar, niet kan blijven regeren.",
+   "fiscal": "Fitch bevestigde op 20 november de A+-rating met stabiele vooruitzichten, na Moody's en S&P, maar waarschuwt voor de stijgende schuld. De Commissie ziet het tekort op 5,2% van het bbp in 2026 en 5,5% in 2027; voorlopige twaalfden dekken januari tot maart 2027.",
+   "social": "De nationale betoging en staking van maandag 23 november zijn voorbij. De volgende aangekondigde actie is de betoging van de non-profit in Brussel op 10 december. In oktober waren er 1.130 faillissementen en de werkloosheid wordt dit jaar op 6,4% geraamd.",
+   "fr": "De Franse Senaat keurde de sociale-zekerheidsbegroting 2027 in eerste lezing goed op 18 november, met 201 stemmen tegen 124, en een gemengde commissie vergadert op 26 november, waar een akkoord onwaarschijnlijk lijkt. Voor de hoofdbegroting 2027 is de eindstemming op 9 december en de grondwettelijke deadline 17 december.",
+   "gl": "De inflatie in de eurozone bereikte 3,8% in september (Eurostat). De depositorente van de ECB blijft op 2,50%."
+  },
+  "fr": {
+   "econ": "L'inflation belge a atteint 5,26 % en octobre, tirée par l'énergie, et le Bureau du Plan attend un dépassement de l'indice-pivot en novembre. Les prévisions d'automne de la Commission européenne tablent sur 0,7 % de croissance en 2026 et 0,8 % en 2027.",
+   "labour": "La Commission voit le chômage à 6,4 % cette année. Statbel a compté 1 130 faillites en octobre, et les annonces de licenciement collectif ont concerné 5 115 travailleurs au premier semestre 2026. L’indexation relève les salaires tandis que des sites industriels comme GSK et Vynova suppriment des emplois.",
+   "geo": "Le Brent est tombé vers 89 dollars le 24 novembre, un plus bas en 12 semaines, tandis qu'Ormuz reste perturbé : les flux ont atteint en moyenne environ 9,5 millions de barils par jour dans les dix jours jusqu'au 19 novembre, contre 12,2 millions en octobre. Les discussions États-Unis–Iran se poursuivent, sans accord confirmé. La tension géopolitique maintient un risque cyber élevé pour les entreprises belges.",
+   "politics": "Le kern s'est réuni le lundi 23 novembre dès 9 h 35 et a terminé vers 11 h 10 sans accord. De Wever a ensuite vu le Roi, qui a regretté l'absence de progrès et lui a accordé du temps supplémentaire. De Wever a jugé un accord au sein du kern impossible, un partenaire de la coalition n'acceptant pas l'équilibre du tableau budgétaire, et a convoqué les cinq présidents de parti le mardi 24 novembre à 16 h. Il prévient que sans accord budgétaire avant l'entrée en vigueur des douzièmes provisoires, vers la fin de l'année, le gouvernement ne pourra plus gouverner.",
+   "fiscal": "Fitch a confirmé la note A+ stable le 20 novembre, après Moody's et S&P, tout en alertant sur la hausse de la dette. La Commission voit le déficit à 5,2 % du PIB en 2026 et 5,5 % en 2027 ; des douzièmes provisoires couvrent janvier à mars 2027.",
+   "social": "La manifestation et la grève nationales du lundi 23 novembre sont terminées. La prochaine action annoncée est la manifestation du non-marchand à Bruxelles le 10 décembre. On comptait 1 130 faillites en octobre et le chômage est attendu à 6,4 % cette année.",
+   "fr": "Le Sénat a adopté en première lecture le budget de la Sécurité sociale 2027 le 18 novembre, par 201 voix contre 124, et une commission mixte paritaire se réunit le 26 novembre, où un accord paraît peu probable. Pour le budget principal 2027, le vote solennel est fixé au 9 décembre et l'échéance constitutionnelle au 17 décembre.",
+   "gl": "L'inflation de la zone euro a atteint 3,8 % en septembre (Eurostat). Le taux de dépôt de la BCE reste à 2,50 %."
+  }
+ },
+ "sources": [
+  {
+   "t": "European Commission: Autumn 2026 economic forecast for Belgium (17 Nov 2026)",
+   "u": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-economies/belgium/economic-forecast-belgium_en"
+  },
+  {
+   "t": "Federal Planning Bureau: inflation forecasts and October CPI (3 Nov 2026)",
+   "u": "https://www.plan.be/en/data/consumer-price-index-inflation-forecasts"
+  },
+  {
+   "t": "Statbel: bankruptcies, 1,130 in October 2026 (Nov 2026)",
+   "u": "https://statbel.fgov.be/en/themes/enterprises/bankruptcies"
+  },
+  {
+   "t": "Eurostat: euro area inflation 3.8% in September (16 Oct 2026)",
+   "u": "https://ec.europa.eu/eurostat/news/euro-indicators"
+  },
+  {
+   "t": "ECB: key ECB interest rates, deposit rate 2.50% (16 Sep 2026)",
+   "u": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html"
+  },
+  {
+   "t": "French Senate: 2027 finance bill legislative file (Nov 2026)",
+   "u": "https://www.senat.fr/dossier-legislatif/pjlf2027.html"
+  },
+  {
+   "t": "VRT NWS liveblog: core cabinet, King and party chairs (23 Nov 2026)",
+   "u": "https://www.vrt.be/vrtnws/nl/liveblog/premier-de-wever-opnieuw-aangekomen-bij-de-koning-zonder-begrot~1793247532380/"
+  },
+  {
+   "t": "Brussels Times: Fitch maintains Belgium's A+ rating (20 Nov 2026)",
+   "u": "https://www.brusselstimes.com/belgium/2416720/fitch-maintains-belgiums-a-rating-but-warns-of-political-uncertainty"
+  },
+  {
+   "t": "Toute l'Europe: French Senate adopts 2027 social security budget (18 Nov 2026)",
+   "u": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/"
+  },
+  {
+   "t": "Trading Economics: Brent crude oil, 12-week low near $89 (24 Nov 2026)",
+   "u": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  }
+ ],
+ "local": [
+  {
+   "rg": "bru",
+   "lv": 1,
+   "sec": [],
+   "x": {
+    "en": "Brussels, 24 November: the 23 November strike day is over; check STIB and city notices ahead of the non-profit march on 10 December.",
+    "nl": "Brussel, 24 november: de stakingsdag van 23 november is voorbij; volg de berichten van MIVB en stad voor de non-profitbetoging van 10 december.",
+    "fr": "Bruxelles, 24 novembre : la journée de grève du 23 novembre est terminée ; suivez les avis de la STIB et de la Ville avant la manifestation du non-marchand du 10 décembre."
+   }
+  },
+  {
+   "rg": "vl",
+   "lv": 1,
+   "sec": [],
+   "x": {
+    "en": "Flanders, 24 November: the 23 November strike is over; check De Lijn notices ahead of the 10 December march.",
+    "nl": "Vlaanderen, 24 november: de staking van 23 november is voorbij; volg de berichten van De Lijn voor de betoging van 10 december.",
+    "fr": "Flandre, 24 novembre : la grève du 23 novembre est terminée ; suivez les avis de De Lijn avant la manifestation du 10 décembre."
+   }
+  },
+  {
+   "rg": "wal",
+   "lv": 1,
+   "sec": [],
+   "x": {
+    "en": "Wallonia, 24 November: the 23 November strike is over; check TEC notices ahead of the 10 December march.",
+    "nl": "Wallonië, 24 november: de staking van 23 november is voorbij; volg de berichten van TEC voor de betoging van 10 december.",
+    "fr": "Wallonie, 24 novembre : la grève du 23 novembre est terminée ; suivez les avis du TEC avant la manifestation du 10 décembre."
+   }
+  }
+ ]
+}
