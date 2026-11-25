@@ -1,11 +1,11 @@
 {
  "v": 5,
- "asof": "2026-11-25T08:55:37Z",
+ "asof": "2026-11-25T11:37:51Z",
  "region": "BE",
  "headline": {
-  "en": "Storm warning on politics: the five party chairs agreed on 24 November to widen the budget effort to about €13 billion and meet again this weekend, while business confidence fell to its lowest in 18 months (NBB).",
-  "nl": "Stormweer voor de politiek: de vijf partijvoorzitters spraken op 24 november af de begrotingsinspanning op te trekken tot zo'n 13 miljard euro en zien elkaar dit weekend opnieuw, terwijl het ondernemersvertrouwen zakte tot het laagste peil in 18 maanden (NBB).",
-  "fr": "Alerte tempête sur la politique : les cinq présidents de parti ont convenu le 24 novembre de porter l'effort budgétaire à environ 13 milliards d'euros et se revoient ce week-end, tandis que la confiance des chefs d'entreprise est tombée à son plus bas depuis 18 mois (BNB)."
+  "en": "Storm warning on politics: Vooruit announces on 25 November whether it stays in the government, as the budget effort grows to about €13 billion and business confidence sits at an 18-month low (NBB).",
+  "nl": "Stormweer voor de politiek: Vooruit maakt op 25 november bekend of het in de regering blijft, terwijl de begrotingsinspanning oploopt tot zo'n 13 miljard euro en het ondernemersvertrouwen op het laagste peil in 18 maanden staat (NBB).",
+  "fr": "Alerte tempête sur la politique : Vooruit annonce le 25 novembre s'il reste au gouvernement, alors que l'effort budgétaire grimpe à environ 13 milliards d'euros et que la confiance des chefs d'entreprise est au plus bas depuis 18 mois (BNB)."
  },
  "climate": {
   "geo": {
@@ -16,9 +16,9 @@
     "fr": "Un quatrième pétrolier aurait heurté une mine près d'Ormuz le 24 novembre et l'Iran veut renforcer son contrôle du détroit, tandis que les États-Unis enquêtent sur des cyberattaques visant jusqu'à 50 pétroliers : coûts énergétiques et risque cyber restent à surveiller pour les entreprises belges."
    },
    "gl": {
-    "en": "Brent dipped to about €80.40 a barrel on 24 November, its lowest since late August, then closed near €83.40 after new attacks on shipping (converted at the ECB rate of 1.0963); the IEA still expects a supply surplus this quarter and OPEC+ meets on 29 November.",
-    "nl": "Brent zakte op 24 november tot ongeveer 80,40 euro per vat, het laagste sinds eind augustus, en sloot daarna rond 83,40 euro na nieuwe aanvallen op schepen (omgerekend aan de ECB-koers van 1,0963); het IEA verwacht dit kwartaal nog altijd een aanbodoverschot en OPEC+ vergadert op 29 november.",
-    "fr": "Le Brent est descendu vers 80,40 euros le baril le 24 novembre, son plus bas depuis fin août, avant de clôturer vers 83,40 euros après de nouvelles attaques contre des navires (converti au cours BCE de 1,0963) ; l'AIE prévoit toujours un excédent d'offre ce trimestre et l'OPEP+ se réunit le 29 novembre."
+    "en": "Brent fell to about €81.90 a barrel on the morning of 25 November and European gas (TTF) eased to €88.10/MWh, as an expected supply surplus outweighed three new projectile strikes on ships near Hormuz (converted at the ECB rate of 1.0963); OPEC+ meets on 29 November.",
+    "nl": "Brent zakte op de ochtend van 25 november tot ongeveer 81,90 euro per vat en Europees gas (TTF) daalde tot 88,10 euro/MWh, omdat een verwacht aanbodoverschot zwaarder woog dan drie nieuwe treffers op schepen bij Hormuz (omgerekend aan de ECB-koers van 1,0963); OPEC+ vergadert op 29 november.",
+    "fr": "Le Brent est retombé vers 81,90 euros le baril le matin du 25 novembre et le gaz européen (TTF) a reculé à 88,10 euros/MWh, un excédent d'offre attendu l'emportant sur trois nouveaux tirs contre des navires près d'Ormuz (converti au cours BCE de 1,0963) ; l'OPEP+ se réunit le 29 novembre."
    }
   },
   "social": {
@@ -45,9 +45,9 @@
   "fiscal": {
    "lv": 2,
    "be": {
-    "en": "The party chairs agreed on 24 November to widen the budget effort to about €13 billion, with new Monitoring Committee figures due within days; without a deal by 31 December, provisional twelfths apply and the government falls. The Commission sees the deficit at 5.2% of GDP this year and 5.5% in 2027; Fitch kept Belgium at A+ on 20 November.",
-    "nl": "De partijvoorzitters spraken op 24 november af de begrotingsinspanning op te trekken tot zo'n 13 miljard euro, met nieuwe cijfers van het Monitoringcomité binnen enkele dagen; zonder akkoord tegen 31 december gelden voorlopige twaalfden en valt de regering. De Commissie ziet het tekort op 5,2% van het bbp dit jaar en 5,5% in 2027; Fitch hield België op 20 november op A+.",
-    "fr": "Les présidents de parti ont convenu le 24 novembre de porter l'effort budgétaire à environ 13 milliards d'euros, de nouveaux chiffres du Comité de monitoring étant attendus d'ici quelques jours ; sans accord d'ici le 31 décembre, des douzièmes provisoires s'appliquent et le gouvernement tombe. La Commission voit le déficit à 5,2 % du PIB cette année et 5,5 % en 2027 ; Fitch a maintenu la Belgique à A+ le 20 novembre."
+    "en": "PM De Wever told the Chamber on 25 November that the effort is now about €13 billion, after 2% of GDP already saved, and asked partners not to walk away; Vooruit gives its answer that afternoon. Without a deal by 31 December the government falls; the Commission sees the deficit at 5.2% of GDP this year.",
+    "nl": "Premier De Wever zei op 25 november in de Kamer dat de inspanning nu zo'n 13 miljard bedraagt, bovenop de 2% van het bbp die al bespaard is, en vroeg partners niet weg te lopen; Vooruit geeft die namiddag zijn antwoord. Zonder akkoord tegen 31 december valt de regering; de Commissie ziet het tekort dit jaar op 5,2% van het bbp.",
+    "fr": "Le Premier ministre De Wever a déclaré à la Chambre le 25 novembre que l'effort atteint désormais environ 13 milliards, après 2 % du PIB déjà économisés, et a demandé aux partenaires de ne pas quitter le navire ; Vooruit donne sa réponse l'après-midi même. Sans accord d'ici le 31 décembre, le gouvernement tombe ; la Commission voit le déficit à 5,2 % du PIB cette année."
    }
   },
   "fr": {
@@ -129,9 +129,9 @@
     "other": 0
    },
    "brief": {
-    "en": "Brent back near €83 a barrel after a dip to €80; a fourth tanker reportedly hit a mine near Hormuz.",
-    "nl": "Brent terug rond 83 euro per vat na een dip tot 80; een vierde tanker zou op een mijn gelopen zijn bij Hormuz.",
-    "fr": "Le Brent revient vers 83 euros le baril après un creux à 80 ; un quatrième pétrolier aurait heurté une mine près d'Ormuz."
+    "en": "Brent eased to about €81.90 a barrel on 25 November despite three new ship strikes near Hormuz.",
+    "nl": "Brent zakte op 25 november tot ongeveer 81,90 euro per vat, ondanks drie nieuwe treffers op schepen bij Hormuz.",
+    "fr": "Le Brent a reculé vers 81,90 euros le baril le 25 novembre malgré trois nouveaux tirs contre des navires près d'Ormuz."
    },
    "thr": {
     "en": "Energy costs could rebound quickly if Hormuz flares up, and reported cyberattacks on energy ships keep cyber risk raised.",
@@ -158,14 +158,14 @@
     "other": 0
    },
    "brief": {
-    "en": "Party chairs widened the budget effort to about €13 billion on 24 November; new meeting this weekend.",
-    "nl": "Partijvoorzitters trokken de begrotingsinspanning op 24 november op tot zo'n 13 miljard; nieuw overleg dit weekend.",
-    "fr": "Les présidents de parti ont porté l'effort budgétaire à environ 13 milliards le 24 novembre ; nouvelle réunion ce week-end."
+    "en": "Vooruit decides on 25 November whether it stays; De Wever puts the effort at €13 billion.",
+    "nl": "Vooruit beslist op 25 november of het blijft; De Wever zet de inspanning op 13 miljard.",
+    "fr": "Vooruit décide le 25 novembre s'il reste ; De Wever chiffre l'effort à 13 milliards."
    },
    "thr": {
-    "en": "A larger €13 billion effort could bring more taxes or cuts, and a collapse by 31 December would freeze public orders for months.",
-    "nl": "Een grotere inspanning van 13 miljard zou meer belastingen of besparingen kunnen meebrengen, en een val tegen 31 december zou overheidsopdrachten maandenlang bevriezen.",
-    "fr": "Un effort élargi à 13 milliards pourrait entraîner plus de taxes ou d'économies, et une chute d'ici le 31 décembre gèlerait les commandes publiques pendant des mois."
+    "en": "If Vooruit leaves or talks stall, provisional twelfths could freeze public orders and the 2027 tax rules for months.",
+    "nl": "Als Vooruit vertrekt of het overleg vastloopt, zouden voorlopige twaalfden overheidsopdrachten en de fiscale regels voor 2027 maandenlang kunnen bevriezen.",
+    "fr": "Si Vooruit s'en va ou si les discussions s'enlisent, des douzièmes provisoires pourraient geler les commandes publiques et les règles fiscales 2027 pendant des mois."
    },
    "opp": {
     "en": "Uncertainty on taxes and pensions could raise demand for clear advice, and firms ready with two scenarios could act first.",
@@ -450,32 +450,32 @@
   "en": {
    "econ": "NBB business confidence fell from -9.8 to -14.7 in November, the lowest in 18 months. Inflation was 5.26% in October and the pivot index is expected to be exceeded in November. The Commission sees growth of 0.7% this year.",
    "labour": "The Commission sees unemployment at 6.4% this year. Statbel counted 1,130 bankruptcies in October, and collective-dismissal notices covered 5,115 workers in the first half of 2026. Indexation lifts wages while industrial sites such as GSK and Vynova shed jobs.",
-   "geo": "Brent dipped to about €80.40 a barrel on 24 November, then closed near €83.40 after new attacks on ships near Hormuz. Iran says it will tighten control of the strait and the US is probing cyberattacks on tankers. Energy and cyber risk stay on the watch list.",
-   "politics": "The party chairs met De Wever on 24 November after the core cabinet failed and agreed to widen the budget effort to about €13 billion. They meet again this weekend; Vooruit is consulting its party. Without a deal by 31 December the government falls.",
+   "geo": "Brent fell to about €81.90 a barrel on 25 November after closing near €83.40 the day before, even as three ships near Hormuz were struck by projectiles. European gas eased to €88.10/MWh, but EU gas storage is below 69%. Energy and cyber risk stay on the watch list.",
+   "politics": "PM De Wever told the Chamber on 25 November that the government is in deep trouble and the effort is now about €13 billion; walking out should not be an option. Vooruit announces in the afternoon whether it stays, and Anders says it is ready to step in. Without a deal by 31 December the government falls.",
    "fiscal": "The budget effort grew to about €13 billion; new Monitoring Committee figures are due within days. The Commission sees the deficit at 5.2% of GDP this year and 5.5% in 2027. Fitch kept Belgium at A+ on 20 November.",
    "social": "The national march and strike of Monday 23 November are over. The next announced action is the non-profit march in Brussels on 10 December. Bankruptcies stood at 1,130 in October and unemployment is seen at 6.4% this year.",
    "fr": "The Banque de France survey of 17 November shows industry recovering while services slow and construction is flat. Firms cite social unrest and fuel prices as main worries. A joint committee on the social security budget meets on 26 November.",
-   "gl": "Brent swings between about €80 and €83 a barrel as attacks near Hormuz meet an expected supply surplus; OPEC+ meets on 29 November. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
+   "gl": "Brent swings between about €80 and €83 a barrel as attacks near Hormuz meet an expected supply surplus (IEA); OPEC+ meets on 29 November to set 2027 quotas. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
   },
   "nl": {
    "econ": "Het NBB-ondernemersvertrouwen zakte in november van -9,8 naar -14,7, het laagste in 18 maanden. De inflatie was 5,26% in oktober en de spilindex wordt in november overschreden verwacht. De Commissie ziet 0,7% groei dit jaar.",
    "labour": "De Commissie ziet de werkloosheid dit jaar op 6,4%. Statbel telde 1.130 faillissementen in oktober, en in de eerste helft van 2026 betroffen aangekondigde collectieve ontslagen 5.115 werknemers. Indexering verhoogt de lonen terwijl industriële sites zoals GSK en Vynova banen schrappen.",
-   "geo": "Brent zakte op 24 november tot ongeveer 80,40 euro per vat en sloot rond 83,40 euro na nieuwe aanvallen op schepen bij Hormuz. Iran wil de straat strenger controleren en de VS onderzoeken cyberaanvallen op tankers. Energie en cyberrisico blijven aandachtspunten.",
-   "politics": "De partijvoorzitters zaten op 24 november bij De Wever nadat de kern vastliep en spraken af de begrotingsinspanning op te trekken tot zo'n 13 miljard. Dit weekend volgt nieuw overleg; Vooruit raadpleegt zijn partij. Zonder akkoord tegen 31 december valt de regering.",
+   "geo": "Brent zakte op 25 november tot ongeveer 81,90 euro per vat na een slot rond 83,40 euro de dag ervoor, hoewel drie schepen bij Hormuz door projectielen werden geraakt. Europees gas daalde tot 88,10 euro/MWh, maar de Europese gasvoorraden zitten onder 69%. Energie en cyberrisico blijven aandachtspunten.",
+   "politics": "Premier De Wever zei op 25 november in de Kamer dat de regering zwaar in moeilijkheden zit en de inspanning nu zo'n 13 miljard bedraagt; weglopen mag geen optie zijn. Vooruit maakt in de namiddag bekend of het blijft, en Anders zegt klaar te staan. Zonder akkoord tegen 31 december valt de regering.",
    "fiscal": "De begrotingsinspanning groeide tot zo'n 13 miljard; nieuwe cijfers van het Monitoringcomité volgen binnen enkele dagen. De Commissie ziet het tekort op 5,2% van het bbp dit jaar en 5,5% in 2027. Fitch hield België op 20 november op A+.",
    "social": "De nationale betoging en staking van maandag 23 november zijn voorbij. De volgende aangekondigde actie is de betoging van de non-profit in Brussel op 10 december. In oktober waren er 1.130 faillissementen en de werkloosheid wordt dit jaar op 6,4% geraamd.",
    "fr": "De enquête van de Banque de France van 17 november toont herstel in de industrie, vertraging in de diensten en stilstand in de bouw. Bedrijven noemen sociale onrust en brandstofprijzen als grootste zorgen. Een gemengde commissie over de sociale-zekerheidsbegroting vergadert op 26 november.",
-   "gl": "Brent schommelt tussen ongeveer 80 en 83 euro per vat doordat aanvallen bij Hormuz botsen met een verwacht aanbodoverschot; OPEC+ vergadert op 29 november. De inflatie in de eurozone was 4,0% in oktober (Eurostat) en de ECB-depositorente blijft op 2,50%."
+   "gl": "Brent schommelt tussen ongeveer 80 en 83 euro per vat doordat aanvallen bij Hormuz botsen met een verwacht aanbodoverschot (IEA); OPEC+ legt op 29 november de quota voor 2027 vast. De inflatie in de eurozone was 4,0% in oktober (Eurostat) en de ECB-depositorente blijft op 2,50%."
   },
   "fr": {
    "econ": "La confiance des chefs d'entreprise BNB est tombée de -9,8 à -14,7 en novembre, au plus bas depuis 18 mois. L'inflation était de 5,26 % en octobre et l'indice-pivot devrait être dépassé en novembre. La Commission voit 0,7 % de croissance cette année.",
    "labour": "La Commission voit le chômage à 6,4 % cette année. Statbel a compté 1 130 faillites en octobre, et les annonces de licenciement collectif ont concerné 5 115 travailleurs au premier semestre 2026. L’indexation relève les salaires tandis que des sites industriels comme GSK et Vynova suppriment des emplois.",
-   "geo": "Le Brent est descendu vers 80,40 euros le baril le 24 novembre puis a clôturé vers 83,40 euros après de nouvelles attaques près d'Ormuz. L'Iran veut renforcer son contrôle du détroit et les États-Unis enquêtent sur des cyberattaques contre des pétroliers. Énergie et risque cyber restent à surveiller.",
-   "politics": "Les présidents de parti ont rencontré De Wever le 24 novembre après l'échec du kern et ont convenu de porter l'effort budgétaire à environ 13 milliards. Ils se revoient ce week-end ; Vooruit consulte son parti. Sans accord d'ici le 31 décembre, le gouvernement tombe.",
+   "geo": "Le Brent est retombé vers 81,90 euros le baril le 25 novembre après une clôture vers 83,40 euros la veille, même si trois navires ont été touchés par des projectiles près d'Ormuz. Le gaz européen a reculé à 88,10 euros/MWh, mais les stocks européens sont sous 69 %. Énergie et risque cyber restent à surveiller.",
+   "politics": "Le Premier ministre De Wever a déclaré à la Chambre le 25 novembre que le gouvernement est en grande difficulté et que l'effort atteint environ 13 milliards ; partir ne doit pas être une option. Vooruit annonce dans l'après-midi s'il reste, et Anders se dit prêt à le remplacer. Sans accord d'ici le 31 décembre, le gouvernement tombe.",
    "fiscal": "L'effort budgétaire est passé à environ 13 milliards ; de nouveaux chiffres du Comité de monitoring sont attendus d'ici quelques jours. La Commission voit le déficit à 5,2 % du PIB cette année et 5,5 % en 2027. Fitch a maintenu la Belgique à A+ le 20 novembre.",
    "social": "La manifestation et la grève nationales du lundi 23 novembre sont terminées. La prochaine action annoncée est la manifestation du non-marchand à Bruxelles le 10 décembre. On comptait 1 130 faillites en octobre et le chômage est attendu à 6,4 % cette année.",
    "fr": "L'enquête de la Banque de France du 17 novembre montre une industrie qui se redresse, des services qui ralentissent et une construction stable. Les entreprises citent le climat social et les prix du carburant comme principales inquiétudes. Une CMP sur le budget de la Sécurité sociale se réunit le 26 novembre.",
-   "gl": "Le Brent oscille entre environ 80 et 83 euros le baril, les attaques près d'Ormuz se heurtant à un excédent d'offre attendu ; l'OPEP+ se réunit le 29 novembre. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
+   "gl": "Le Brent oscille entre environ 80 et 83 euros le baril, les attaques près d'Ormuz se heurtant à un excédent d'offre attendu (AIE) ; l'OPEP+ fixe le 29 novembre ses quotas pour 2027. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
   }
  },
  "sources": [
@@ -512,12 +512,12 @@
    "u": "https://www.lalibre.be/belgique/politique-belge/2026/11/24/crise-gouvernementale-les-presidents-de-partis-daccord-pour-elargir-leffort-budgetaire-a-13-milliards-deuros-PT6BQNMZKBCVNNFOXGPQA5WW4I/"
   },
   {
-   "t": "La DH/Belga: business confidence collapses, NBB barometer (24 Nov 2026)",
-   "u": "https://www.dhnet.be/dernieres-depeches/2026/11/24/la-confiance-des-entrepreneurs-seffondre-RYWZOLIKRBEPHLULOSZBCTTYX4/"
+   "t": "Bruzz: Vooruit weighs staying in federal government, De Wever asks not to walk away (25 Nov 2026)",
+   "u": "https://www.bruzz.be/actua/politiek/vooruit-beraadt-zich-over-deelname-federale-regering-de-wever-vraagt-om-niet-weg-te-lopen-2026-11-25"
   },
   {
-   "t": "The Nation/Reuters: Brent closes higher after Hormuz attacks (25 Nov 2026)",
-   "u": "https://www.nationthailand.com/news/world/40073886"
+   "t": "Anadolu Agency: oil and European gas prices fall amid renewed Hormuz attacks (25 Nov 2026)",
+   "u": "https://www.aa.com.tr/en/economy/oil-and-european-gas-prices-fall-amid-renewed-attacks-in-strait-of-hormuz/4136916"
   }
  ],
  "local": []
