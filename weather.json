@@ -1,6 +1,6 @@
 {
  "v": 5,
- "asof": "2026-11-25T05:43:29Z",
+ "asof": "2026-11-25T08:55:37Z",
  "region": "BE",
  "headline": {
   "en": "Storm warning on politics: the five party chairs agreed on 24 November to widen the budget effort to about €13 billion and meet again this weekend, while business confidence fell to its lowest in 18 months (NBB).",
@@ -16,9 +16,9 @@
     "fr": "Un quatrième pétrolier aurait heurté une mine près d'Ormuz le 24 novembre et l'Iran veut renforcer son contrôle du détroit, tandis que les États-Unis enquêtent sur des cyberattaques visant jusqu'à 50 pétroliers : coûts énergétiques et risque cyber restent à surveiller pour les entreprises belges."
    },
    "gl": {
-    "en": "Brent dipped to $88.10 on 24 November, its lowest since late August, then closed at $91.40 after new attacks on shipping; the IEA still expects a supply surplus this quarter and OPEC+ meets on 29 November.",
-    "nl": "Brent zakte op 24 november tot 88,10 dollar, het laagste sinds eind augustus, en sloot daarna op 91,40 dollar na nieuwe aanvallen op schepen; het IEA verwacht dit kwartaal nog altijd een aanbodoverschot en OPEC+ vergadert op 29 november.",
-    "fr": "Le Brent est descendu à 88,10 dollars le 24 novembre, son plus bas depuis fin août, avant de clôturer à 91,40 dollars après de nouvelles attaques contre des navires ; l'AIE prévoit toujours un excédent d'offre ce trimestre et l'OPEP+ se réunit le 29 novembre."
+    "en": "Brent dipped to about €80.40 a barrel on 24 November, its lowest since late August, then closed near €83.40 after new attacks on shipping (converted at the ECB rate of 1.0963); the IEA still expects a supply surplus this quarter and OPEC+ meets on 29 November.",
+    "nl": "Brent zakte op 24 november tot ongeveer 80,40 euro per vat, het laagste sinds eind augustus, en sloot daarna rond 83,40 euro na nieuwe aanvallen op schepen (omgerekend aan de ECB-koers van 1,0963); het IEA verwacht dit kwartaal nog altijd een aanbodoverschot en OPEC+ vergadert op 29 november.",
+    "fr": "Le Brent est descendu vers 80,40 euros le baril le 24 novembre, son plus bas depuis fin août, avant de clôturer vers 83,40 euros après de nouvelles attaques contre des navires (converti au cours BCE de 1,0963) ; l'AIE prévoit toujours un excédent d'offre ce trimestre et l'OPEP+ se réunit le 29 novembre."
    }
   },
   "social": {
@@ -129,9 +129,9 @@
     "other": 0
    },
    "brief": {
-    "en": "Brent back above $91 after a dip to $88; a fourth tanker reportedly hit a mine near Hormuz.",
-    "nl": "Brent terug boven 91 dollar na een dip tot 88; een vierde tanker zou op een mijn gelopen zijn bij Hormuz.",
-    "fr": "Le Brent repasse au-dessus de 91 dollars après un creux à 88 ; un quatrième pétrolier aurait heurté une mine près d'Ormuz."
+    "en": "Brent back near €83 a barrel after a dip to €80; a fourth tanker reportedly hit a mine near Hormuz.",
+    "nl": "Brent terug rond 83 euro per vat na een dip tot 80; een vierde tanker zou op een mijn gelopen zijn bij Hormuz.",
+    "fr": "Le Brent revient vers 83 euros le baril après un creux à 80 ; un quatrième pétrolier aurait heurté une mine près d'Ormuz."
    },
    "thr": {
     "en": "Energy costs could rebound quickly if Hormuz flares up, and reported cyberattacks on energy ships keep cyber risk raised.",
@@ -282,9 +282,9 @@
    "s": -1,
    "fn": "fleet",
    "ch": {
-    "en": "Statbel counted a record 633 bankruptcies in transport and storage from January to September (Logistiek.be); the higher kilometre charge and still-volatile fuel prices add pressure, even with Brent near $89.",
-    "nl": "Statbel telde een recordaantal van 633 faillissementen in vervoer en opslag van januari tot september (Logistiek.be); de hogere kilometerheffing en nog steeds volatiele brandstofprijzen verhogen de druk, ook met Brent rond 89 dollar.",
-    "fr": "Statbel a recensé un record de 633 faillites dans le transport et l'entreposage de janvier à septembre (Logistiek.be) ; la redevance kilométrique plus élevée et des prix du carburant encore volatils accentuent la pression, même avec un Brent vers 89 dollars."
+    "en": "Statbel counted a record 633 bankruptcies in transport and storage from January to September (Logistiek.be); the higher kilometre charge and still-volatile fuel prices add pressure, even with Brent near €81 a barrel.",
+    "nl": "Statbel telde een recordaantal van 633 faillissementen in vervoer en opslag van januari tot september (Logistiek.be); de hogere kilometerheffing en nog steeds volatiele brandstofprijzen verhogen de druk, ook met Brent rond 81 euro per vat.",
+    "fr": "Statbel a recensé un record de 633 faillites dans le transport et l'entreposage de janvier à septembre (Logistiek.be) ; la redevance kilométrique plus élevée et des prix du carburant encore volatils accentuent la pression, même avec un Brent vers 81 euros le baril."
    },
    "op": {
     "en": "A clear fuel and index clause in rates, backed by route data, could turn cost increases into a fair, accepted price.",
@@ -430,6 +430,10 @@
   {
    "t": "ACV/ACLVB/ABVV: sheltered-work employees march in Brussels on 10 December (2026)",
    "u": "https://www.hetacv.be/docs/default-source/acvbie-cscbie-document/persberichten-communiqu%C3%A9s-de-presse/2026/persbericht-gemeenschappelijk-vakbondsfront-werknemers-uit-maatwerk-trekken-naar-brussel-op-10-december.pdf?sfvrsn=f1bca5cf_1"
+  },
+  {
+   "t": "ECB: euro reference rate, 1 EUR = 1.0963 USD (24 Nov 2026)",
+   "u": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html"
   }
  ],
  "levels": {
@@ -446,32 +450,32 @@
   "en": {
    "econ": "NBB business confidence fell from -9.8 to -14.7 in November, the lowest in 18 months. Inflation was 5.26% in October and the pivot index is expected to be exceeded in November. The Commission sees growth of 0.7% this year.",
    "labour": "The Commission sees unemployment at 6.4% this year. Statbel counted 1,130 bankruptcies in October, and collective-dismissal notices covered 5,115 workers in the first half of 2026. Indexation lifts wages while industrial sites such as GSK and Vynova shed jobs.",
-   "geo": "Brent dipped to $88.10 on 24 November, then closed at $91.40 after new attacks on ships near Hormuz. Iran says it will tighten control of the strait and the US is probing cyberattacks on tankers. Energy and cyber risk stay on the watch list.",
+   "geo": "Brent dipped to about €80.40 a barrel on 24 November, then closed near €83.40 after new attacks on ships near Hormuz. Iran says it will tighten control of the strait and the US is probing cyberattacks on tankers. Energy and cyber risk stay on the watch list.",
    "politics": "The party chairs met De Wever on 24 November after the core cabinet failed and agreed to widen the budget effort to about €13 billion. They meet again this weekend; Vooruit is consulting its party. Without a deal by 31 December the government falls.",
    "fiscal": "The budget effort grew to about €13 billion; new Monitoring Committee figures are due within days. The Commission sees the deficit at 5.2% of GDP this year and 5.5% in 2027. Fitch kept Belgium at A+ on 20 November.",
    "social": "The national march and strike of Monday 23 November are over. The next announced action is the non-profit march in Brussels on 10 December. Bankruptcies stood at 1,130 in October and unemployment is seen at 6.4% this year.",
    "fr": "The Banque de France survey of 17 November shows industry recovering while services slow and construction is flat. Firms cite social unrest and fuel prices as main worries. A joint committee on the social security budget meets on 26 November.",
-   "gl": "Brent swings between $88 and $91 as attacks near Hormuz meet an expected supply surplus; OPEC+ meets on 29 November. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
+   "gl": "Brent swings between about €80 and €83 a barrel as attacks near Hormuz meet an expected supply surplus; OPEC+ meets on 29 November. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
   },
   "nl": {
    "econ": "Het NBB-ondernemersvertrouwen zakte in november van -9,8 naar -14,7, het laagste in 18 maanden. De inflatie was 5,26% in oktober en de spilindex wordt in november overschreden verwacht. De Commissie ziet 0,7% groei dit jaar.",
    "labour": "De Commissie ziet de werkloosheid dit jaar op 6,4%. Statbel telde 1.130 faillissementen in oktober, en in de eerste helft van 2026 betroffen aangekondigde collectieve ontslagen 5.115 werknemers. Indexering verhoogt de lonen terwijl industriële sites zoals GSK en Vynova banen schrappen.",
-   "geo": "Brent zakte op 24 november tot 88,10 dollar en sloot op 91,40 dollar na nieuwe aanvallen op schepen bij Hormuz. Iran wil de straat strenger controleren en de VS onderzoeken cyberaanvallen op tankers. Energie en cyberrisico blijven aandachtspunten.",
+   "geo": "Brent zakte op 24 november tot ongeveer 80,40 euro per vat en sloot rond 83,40 euro na nieuwe aanvallen op schepen bij Hormuz. Iran wil de straat strenger controleren en de VS onderzoeken cyberaanvallen op tankers. Energie en cyberrisico blijven aandachtspunten.",
    "politics": "De partijvoorzitters zaten op 24 november bij De Wever nadat de kern vastliep en spraken af de begrotingsinspanning op te trekken tot zo'n 13 miljard. Dit weekend volgt nieuw overleg; Vooruit raadpleegt zijn partij. Zonder akkoord tegen 31 december valt de regering.",
    "fiscal": "De begrotingsinspanning groeide tot zo'n 13 miljard; nieuwe cijfers van het Monitoringcomité volgen binnen enkele dagen. De Commissie ziet het tekort op 5,2% van het bbp dit jaar en 5,5% in 2027. Fitch hield België op 20 november op A+.",
    "social": "De nationale betoging en staking van maandag 23 november zijn voorbij. De volgende aangekondigde actie is de betoging van de non-profit in Brussel op 10 december. In oktober waren er 1.130 faillissementen en de werkloosheid wordt dit jaar op 6,4% geraamd.",
    "fr": "De enquête van de Banque de France van 17 november toont herstel in de industrie, vertraging in de diensten en stilstand in de bouw. Bedrijven noemen sociale onrust en brandstofprijzen als grootste zorgen. Een gemengde commissie over de sociale-zekerheidsbegroting vergadert op 26 november.",
-   "gl": "Brent schommelt tussen 88 en 91 dollar doordat aanvallen bij Hormuz botsen met een verwacht aanbodoverschot; OPEC+ vergadert op 29 november. De inflatie in de eurozone was 4,0% in oktober (Eurostat) en de ECB-depositorente blijft op 2,50%."
+   "gl": "Brent schommelt tussen ongeveer 80 en 83 euro per vat doordat aanvallen bij Hormuz botsen met een verwacht aanbodoverschot; OPEC+ vergadert op 29 november. De inflatie in de eurozone was 4,0% in oktober (Eurostat) en de ECB-depositorente blijft op 2,50%."
   },
   "fr": {
    "econ": "La confiance des chefs d'entreprise BNB est tombée de -9,8 à -14,7 en novembre, au plus bas depuis 18 mois. L'inflation était de 5,26 % en octobre et l'indice-pivot devrait être dépassé en novembre. La Commission voit 0,7 % de croissance cette année.",
    "labour": "La Commission voit le chômage à 6,4 % cette année. Statbel a compté 1 130 faillites en octobre, et les annonces de licenciement collectif ont concerné 5 115 travailleurs au premier semestre 2026. L’indexation relève les salaires tandis que des sites industriels comme GSK et Vynova suppriment des emplois.",
-   "geo": "Le Brent est descendu à 88,10 dollars le 24 novembre puis a clôturé à 91,40 dollars après de nouvelles attaques près d'Ormuz. L'Iran veut renforcer son contrôle du détroit et les États-Unis enquêtent sur des cyberattaques contre des pétroliers. Énergie et risque cyber restent à surveiller.",
+   "geo": "Le Brent est descendu vers 80,40 euros le baril le 24 novembre puis a clôturé vers 83,40 euros après de nouvelles attaques près d'Ormuz. L'Iran veut renforcer son contrôle du détroit et les États-Unis enquêtent sur des cyberattaques contre des pétroliers. Énergie et risque cyber restent à surveiller.",
    "politics": "Les présidents de parti ont rencontré De Wever le 24 novembre après l'échec du kern et ont convenu de porter l'effort budgétaire à environ 13 milliards. Ils se revoient ce week-end ; Vooruit consulte son parti. Sans accord d'ici le 31 décembre, le gouvernement tombe.",
    "fiscal": "L'effort budgétaire est passé à environ 13 milliards ; de nouveaux chiffres du Comité de monitoring sont attendus d'ici quelques jours. La Commission voit le déficit à 5,2 % du PIB cette année et 5,5 % en 2027. Fitch a maintenu la Belgique à A+ le 20 novembre.",
    "social": "La manifestation et la grève nationales du lundi 23 novembre sont terminées. La prochaine action annoncée est la manifestation du non-marchand à Bruxelles le 10 décembre. On comptait 1 130 faillites en octobre et le chômage est attendu à 6,4 % cette année.",
    "fr": "L'enquête de la Banque de France du 17 novembre montre une industrie qui se redresse, des services qui ralentissent et une construction stable. Les entreprises citent le climat social et les prix du carburant comme principales inquiétudes. Une CMP sur le budget de la Sécurité sociale se réunit le 26 novembre.",
-   "gl": "Le Brent oscille entre 88 et 91 dollars, les attaques près d'Ormuz se heurtant à un excédent d'offre attendu ; l'OPEP+ se réunit le 29 novembre. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
+   "gl": "Le Brent oscille entre environ 80 et 83 euros le baril, les attaques près d'Ormuz se heurtant à un excédent d'offre attendu ; l'OPEP+ se réunit le 29 novembre. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
   }
  },
  "sources": [
@@ -512,7 +516,7 @@
    "u": "https://www.dhnet.be/dernieres-depeches/2026/11/24/la-confiance-des-entrepreneurs-seffondre-RYWZOLIKRBEPHLULOSZBCTTYX4/"
   },
   {
-   "t": "The Nation/Reuters: Brent closes $2.03 higher after Hormuz attacks (25 Nov 2026)",
+   "t": "The Nation/Reuters: Brent closes higher after Hormuz attacks (25 Nov 2026)",
    "u": "https://www.nationthailand.com/news/world/40073886"
   }
  ],
