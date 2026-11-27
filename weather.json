@@ -1,24 +1,24 @@
 {
  "v": 5,
- "asof": "2026-11-26T11:41:34Z",
+ "asof": "2026-11-27T05:42:26Z",
  "region": "BE",
  "headline": {
-  "en": "Storm warning on politics: budget talks now centre on a reform of wage indexation and an effort of €13 to 14 billion, while Brent holds near €85.80 a barrel after mine strikes near Hormuz.",
-  "nl": "Stormweer voor de politiek: de begrotingsgesprekken draaien nu om een hervorming van de loonindexering en een inspanning van 13 à 14 miljard euro, terwijl Brent na mijnincidenten bij Hormuz rond 85,80 euro per vat blijft.",
-  "fr": "Alerte tempête sur la politique : les négociations budgétaires portent désormais sur une réforme de l'indexation et un effort de 13 à 14 milliards d'euros, tandis que le Brent se maintient vers 85,80 euros le baril après les mines près d'Ormuz."
+  "en": "Storm warning on politics: the PM calls party leaders back on Monday 30 November while Vooruit sets conditions on the index, and Brent climbs to about €88.50 a barrel after new Gulf attacks.",
+  "nl": "Stormweer voor de politiek: de premier roept de partijvoorzitters maandag 30 november opnieuw samen terwijl Vooruit voorwaarden stelt over de index, en Brent klimt na nieuwe aanvallen in de Golf tot ongeveer 88,50 euro per vat.",
+  "fr": "Alerte tempête sur la politique : le Premier ministre reconvoque les présidents de parti lundi 30 novembre alors que Vooruit pose ses conditions sur l'index, et le Brent grimpe vers 88,50 euros le baril après de nouvelles attaques dans le Golfe."
  },
  "climate": {
   "geo": {
    "lv": 2,
    "be": {
-    "en": "Iranian media report tankers hitting mines near Hormuz on 25 November and the Houthis claim an attack on Saudi Arabia's Ras Tanura refinery: energy costs and cyber risk stay on the radar for Belgian firms.",
-    "nl": "Iraanse media melden op 25 november tankers die op mijnen liepen bij Hormuz en de Houthi's claimen een aanval op de Saoedische raffinaderij Ras Tanura: energiekosten en cyberrisico blijven aandachtspunten voor Belgische bedrijven.",
-    "fr": "Les médias iraniens signalent des pétroliers ayant heurté des mines près d'Ormuz le 25 novembre et les Houthis revendiquent une attaque contre la raffinerie saoudienne de Ras Tanura : coûts énergétiques et risque cyber restent à surveiller pour les entreprises belges."
+    "en": "The Houthis hit Saudi Arabia's Jazan refinery and another tanker was struck near Hormuz on 25 November: energy costs and cyber risk stay on the radar for Belgian firms.",
+    "nl": "De Houthi's troffen de Saoedische raffinaderij van Jazan en bij Hormuz werd op 25 november opnieuw een tanker geraakt: energiekosten en cyberrisico blijven aandachtspunten voor Belgische bedrijven.",
+    "fr": "Les Houthis ont frappé la raffinerie saoudienne de Jazan et un nouveau pétrolier a été touché près d'Ormuz le 25 novembre : coûts énergétiques et risque cyber restent à surveiller pour les entreprises belges."
    },
    "gl": {
-    "en": "Brent eased slightly on 26 November to about €85.80 a barrel (converted at the ECB rate of 1.0935) after a 3.5% jump the day before; shipping near Hormuz remains disrupted and OPEC+ meets on 29 November.",
-    "nl": "Brent zakte op 26 november licht tot ongeveer 85,80 euro per vat (omgerekend aan de ECB-koers van 1,0935) na een sprong van 3,5% de dag ervoor; de scheepvaart bij Hormuz blijft verstoord en OPEC+ vergadert op 29 november.",
-    "fr": "Le Brent a légèrement reculé le 26 novembre vers 85,80 euros le baril (converti au cours BCE de 1,0935) après un bond de 3,5 % la veille ; la navigation près d'Ormuz reste perturbée et l'OPEP+ se réunit le 29 novembre."
+    "en": "Brent rose to about €88.50 a barrel on 27 November, heading for its first weekly gain in four weeks though still down sharply this month; OPEC+ meets on 29 November on 2027 output.",
+    "nl": "Brent steeg op 27 november tot ongeveer 88,50 euro per vat, op weg naar de eerste weekwinst in vier weken maar nog fors lager dan begin deze maand; OPEC+ vergadert op 29 november over de productie in 2027.",
+    "fr": "Le Brent est monté vers 88,50 euros le baril le 27 novembre, en route pour sa première hausse hebdomadaire en quatre semaines mais toujours en net recul sur le mois ; l'OPEP+ se réunit le 29 novembre sur la production 2027."
    }
   },
   "social": {
@@ -45,15 +45,15 @@
   "fiscal": {
    "lv": 2,
    "be": {
-    "en": "The coalition is now discussing an index reform (a 12-month average of the health index, and benefits and civil-servant pay indexed once a year on 1 January) within an effort of €13 to 14 billion; Vooruit demands index protection and a millionaires' contribution, the deadline is New Year, and the Commission sees the deficit at 5.2% of GDP this year.",
-    "nl": "De coalitie bespreekt nu een indexhervorming (een gemiddelde van de gezondheidsindex over 12 maanden, en uitkeringen en ambtenarenlonen eenmaal per jaar op 1 januari geïndexeerd) binnen een inspanning van 13 à 14 miljard euro; Vooruit eist bescherming van de index en een miljonairsbijdrage, de deadline is Nieuwjaar en de Commissie ziet het tekort dit jaar op 5,2% van het bbp.",
-    "fr": "La coalition discute désormais d'une réforme de l'index (moyenne de l'indice santé sur 12 mois, et allocations et traitements des fonctionnaires indexés une fois par an au 1er janvier) dans un effort de 13 à 14 milliards d'euros ; Vooruit exige la protection de l'index et une contribution des millionnaires, l'échéance est le Nouvel An et la Commission voit le déficit à 5,2 % du PIB cette année."
+    "en": "The PM reconvenes the majority's party leaders on Monday 30 November; Vooruit will only attend if a millionaires' tax is confirmed and the index is left alone except through a social-partner agreement. The Commission sees the deficit at 5.2% of GDP this year, rising to 5.7% in 2028 under unchanged policy.",
+    "nl": "De premier roept de partijvoorzitters van de meerderheid maandag 30 november opnieuw samen; Vooruit komt enkel als een miljonairsbelasting bevestigd wordt en niet aan de index geraakt wordt, behalve via een akkoord van de sociale partners. De Commissie ziet het tekort dit jaar op 5,2% van het bbp en bij ongewijzigd beleid op 5,7% in 2028.",
+    "fr": "Le Premier ministre reconvoque les présidents de parti de la majorité lundi 30 novembre ; Vooruit n'y participera que si une taxe sur les millionnaires est confirmée et que l'index n'est touché que via un accord des partenaires sociaux. La Commission voit le déficit à 5,2 % du PIB cette année et à 5,7 % en 2028 à politique inchangée."
    }
   },
   "fr": {
-   "en": "A joint committee meets on 26 November on the 2027 social security budget, which the Assemblée rejected in October, so agreement looks unlikely; the Banque de France survey (17 November) shows industry recovering but services slowing.",
-   "nl": "Een gemengde commissie buigt zich op 26 november over de sociale-zekerheidsbegroting 2027, die de Assemblée in oktober verwierp, waardoor een akkoord onwaarschijnlijk lijkt; de enquête van de Banque de France (17 november) toont herstel in de industrie maar vertraging in de diensten.",
-   "fr": "Une commission mixte paritaire se réunit le 26 novembre sur le budget 2027 de la Sécurité sociale, rejeté par l'Assemblée en octobre, ce qui rend un accord peu probable ; l'enquête de la Banque de France (17 novembre) montre une industrie qui se redresse mais des services qui ralentissent."
+   "en": "Deputies and senators failed to agree on the 2027 social security budget on 26 November; a new reading starts at the Assemblée (floor debate 7 December) and the government could now resort to ordinances.",
+   "nl": "Afgevaardigden en senatoren raakten het op 26 november niet eens over de sociale-zekerheidsbegroting 2027; een nieuwe lezing start in de Assemblée (plenair debat op 7 december) en de regering zou nu naar ordonnanties kunnen grijpen.",
+   "fr": "Députés et sénateurs ont échoué à s'accorder sur le budget 2027 de la Sécurité sociale le 26 novembre ; une nouvelle lecture s'ouvre à l'Assemblée (séance le 7 décembre) et le gouvernement pourrait désormais recourir aux ordonnances."
   }
  },
  "themes": {
@@ -129,9 +129,9 @@
     "other": 0
    },
    "brief": {
-    "en": "Brent near €85.80 a barrel on 26 November as shipping near Hormuz stays disrupted.",
-    "nl": "Brent rond 85,80 euro per vat op 26 november, scheepvaart bij Hormuz blijft verstoord.",
-    "fr": "Brent vers 85,80 euros le baril le 26 novembre, navigation perturbée près d'Ormuz."
+    "en": "Brent near €88.50 a barrel on 27 November after Houthi strike on Saudi refinery.",
+    "nl": "Brent rond 88,50 euro per vat op 27 november na Houthi-aanval op Saoedische raffinaderij.",
+    "fr": "Brent vers 88,50 euros le baril le 27 novembre après une frappe houthie en Arabie saoudite."
    },
    "thr": {
     "en": "Energy and transport costs could keep rising while Hormuz runs at half capacity, and conflicts of this kind usually bring more cyberattacks.",
@@ -158,9 +158,9 @@
     "other": 0
    },
    "brief": {
-    "en": "Vooruit stays for now but demands index protection and a millionaires' contribution before talks resume.",
-    "nl": "Vooruit blijft voorlopig, maar eist bescherming van de index en een miljonairsbijdrage voor verder overleg.",
-    "fr": "Vooruit reste pour l'instant mais exige la protection de l'index et une contribution des millionnaires."
+    "en": "Party leaders meet again on 30 November; Vooruit attends only with guarantees on index and millionaires.",
+    "nl": "Partijvoorzitters op 30 november opnieuw samen; Vooruit komt enkel met garanties over index en miljonairs.",
+    "fr": "Présidents de parti réunis le 30 novembre ; Vooruit ne vient qu'avec des garanties sur l'index et les millionnaires."
    },
    "thr": {
     "en": "If partners refuse the ultimatum, a search for another majority or provisional twelfths could freeze public orders and the 2027 tax rules for months.",
@@ -187,9 +187,9 @@
     "other": 0
    },
    "brief": {
-    "en": "Effort of €13 to 14 billion; index reform and millionaires' contribution are the sticking points; deadline New Year.",
-    "nl": "Inspanning van 13 à 14 miljard; indexhervorming en miljonairsbijdrage blijven struikelblokken; deadline Nieuwjaar.",
-    "fr": "Effort de 13 à 14 milliards ; réforme de l'index et contribution des millionnaires bloquent ; échéance au Nouvel An."
+    "en": "Index savings and a millionaires' contribution block the budget; Commission sees 5.7% deficit by 2028.",
+    "nl": "Indexbesparingen en miljonairsbijdrage blokkeren de begroting; Commissie ziet 5,7% tekort tegen 2028.",
+    "fr": "Économies sur l'index et contribution des millionnaires bloquent le budget ; la Commission voit 5,7 % de déficit en 2028."
    },
    "thr": {
     "en": "VAT, securities tax and indexation rules for 2027 remain open, and a bigger effort raises the chance of new levies on companies.",
@@ -245,9 +245,9 @@
     "other": 0
    },
    "brief": {
-    "en": "French social security budget committee meets on 26 November; agreement looks unlikely.",
-    "nl": "Franse commissie over de sociale-zekerheidsbegroting vergadert op 26 november; akkoord lijkt onwaarschijnlijk.",
-    "fr": "La CMP sur le budget de la Sécurité sociale se réunit le 26 novembre ; un accord semble peu probable."
+    "en": "French 2027 social security budget committee failed on 26 November; new reading from 7 December.",
+    "nl": "Franse commissie over de sociale-zekerheidsbegroting 2027 mislukte op 26 november; nieuwe lezing vanaf 7 december.",
+    "fr": "Échec de la CMP sur le budget 2027 de la Sécurité sociale le 26 novembre ; nouvelle lecture dès le 7 décembre."
    },
    "thr": {
     "en": "French tax rules could still change before year end, delaying French clients' investment decisions.",
@@ -282,9 +282,9 @@
    "s": -1,
    "fn": "fleet",
    "ch": {
-    "en": "Statbel counted a record 633 bankruptcies in transport and storage from January to September (Logistiek.be); fuel costs rise again with Brent near €85.80 a barrel and Skeyes unions filed a strike notice for 9 December to 9 January.",
-    "nl": "Statbel telde van januari tot september een record van 633 faillissementen in vervoer en opslag (Logistiek.be); de brandstofkosten stijgen opnieuw met Brent rond 85,80 euro per vat en de vakbonden bij Skeyes dienden een stakingsaanzegging in voor 9 december tot 9 januari.",
-    "fr": "Statbel a recensé un record de 633 faillites dans le transport et l'entreposage de janvier à septembre (Logistiek.be) ; le carburant renchérit à nouveau avec le Brent vers 85,80 euros le baril et les syndicats de skeyes ont déposé un préavis du 9 décembre au 9 janvier."
+    "en": "Statbel counted a record 633 bankruptcies in transport and storage from January to September (Logistiek.be); fuel costs rise again with Brent near €88.50 a barrel and Skeyes unions filed a strike notice for 9 December to 9 January.",
+    "nl": "Statbel telde van januari tot september een record van 633 faillissementen in vervoer en opslag (Logistiek.be); de brandstofkosten stijgen opnieuw met Brent rond 88,50 euro per vat en de vakbonden bij Skeyes dienden een stakingsaanzegging in voor 9 december tot 9 januari.",
+    "fr": "Statbel a recensé un record de 633 faillites dans le transport et l'entreposage de janvier à septembre (Logistiek.be) ; le carburant renchérit à nouveau avec le Brent vers 88,50 euros le baril et les syndicats de skeyes ont déposé un préavis du 9 décembre au 9 janvier."
    },
    "op": {
     "en": "A clear fuel and index clause in rates, backed by route data, could turn cost increases into a fair, accepted price.",
@@ -446,42 +446,38 @@
   "en": {
    "econ": "NBB business confidence fell from -9.8 to -14.7 in November, the lowest in 18 months. Inflation was 5.26% in October and the pivot index is expected to be exceeded in November. The Commission sees growth of 0.7% this year.",
    "labour": "The Commission sees unemployment at 6.4% this year. Statbel counted 1,130 bankruptcies in October, and collective-dismissal notices covered 5,115 workers in the first half of 2026. Indexation lifts wages while industrial sites such as GSK and Vynova shed jobs.",
-   "geo": "Iranian media report tankers hitting mines near Hormuz on 25 November, and the Houthis claim an attack on Saudi Arabia's Ras Tanura refinery. Brent jumped 3.5% that day and eased slightly to about €85.80 a barrel on 26 November. Energy and cyber risk stay on the watch list.",
-   "politics": "On 25 November Vooruit chose to stay for now but will only keep negotiating if partners guarantee the wage index and a contribution from millionaires; otherwise they should look for another majority. MR says an index jump was never planned and CD&V wants to stay at the table, while Anders offers its seats. The deadline is New Year.",
-   "fiscal": "The budget effort is now put at €13 to 14 billion. Two index changes are on the table: a 12-month average of the health index, and indexing benefits and civil-servant pay once a year on 1 January. The Commission sees the deficit at 5.2% of GDP this year and 5.5% in 2027.",
+   "geo": "The Houthis struck Saudi Arabia's Jazan refinery and a tanker was hit near Hormuz on 25 November. Brent rose to about €88.50 a barrel on 27 November, set for its first weekly gain in four weeks. Energy and cyber risk stay on the watch list.",
+   "politics": "PM De Wever calls the majority's party leaders back on Monday 30 November at 14:00. Vooruit will only take part if the others confirm a millionaires' tax and leave the index alone except through a social-partner agreement. MR says no index jump is planned and warns a government fall would be dramatic.",
+   "fiscal": "The latest table reportedly held €1.1 billion of index-related savings, of which €400 million would come from a social-partner reform. Ideas include a 12-month average of the health index and indexing benefits and civil-servant pay once a year on 1 January. The Commission sees the deficit at 5.2% of GDP this year and 5.7% in 2028, with debt at 115.8%.",
    "social": "The national strike of 23 November is over. The non-profit sector marches in Brussels on 10 December, and Skeyes unions filed a strike notice for 9 December to 9 January. Bankruptcies stood at 1,130 in October and unemployment is seen at 6.4% this year.",
-   "fr": "The Banque de France survey of 17 November shows industry recovering while services slow. A joint committee meets on 26 November on the 2027 social security budget, which the Assemblée rejected in October. The government targets a social security deficit of €12.7 billion in 2027.",
-   "gl": "Brent stood near €85.80 a barrel on 26 November while shipping near Hormuz stays disrupted; OPEC+ meets on 29 November to set 2027 quotas. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
+   "fr": "Deputies and senators failed to agree on the 2027 social security budget on 26 November. A new reading opens at the Assemblée, with committee work on 30 November and floor debate on 7 December. With the 50-day window expired, the government could use ordinances, though ministers say they want to avoid that.",
+   "gl": "Brent stood near €88.50 a barrel on 27 November after new attacks on Gulf energy sites; OPEC+ meets on 29 November to set 2027 quotas. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
   },
   "nl": {
    "econ": "Het NBB-ondernemersvertrouwen zakte in november van -9,8 naar -14,7, het laagste in 18 maanden. De inflatie was 5,26% in oktober en de spilindex wordt in november overschreden verwacht. De Commissie ziet 0,7% groei dit jaar.",
    "labour": "De Commissie ziet de werkloosheid dit jaar op 6,4%. Statbel telde 1.130 faillissementen in oktober, en in de eerste helft van 2026 betroffen aangekondigde collectieve ontslagen 5.115 werknemers. Indexering verhoogt de lonen terwijl industriële sites zoals GSK en Vynova banen schrappen.",
-   "geo": "Iraanse media melden op 25 november tankers die op mijnen liepen bij Hormuz, en de Houthi's claimen een aanval op de Saoedische raffinaderij Ras Tanura. Brent sprong die dag 3,5% hoger en zakte op 26 november licht tot ongeveer 85,80 euro per vat. Energie- en cyberrisico blijven aandachtspunten.",
-   "politics": "Op 25 november koos Vooruit om voorlopig te blijven, maar het onderhandelt enkel verder als de partners de loonindex en een bijdrage van miljonairs garanderen; anders moeten ze een andere meerderheid zoeken. MR zegt dat een indexsprong nooit aan de orde was en CD&V wil aan tafel blijven, terwijl Anders zijn zetels aanbiedt. De deadline is Nieuwjaar.",
-   "fiscal": "De begrotingsinspanning wordt nu op 13 à 14 miljard euro geraamd. Twee indexwijzigingen liggen op tafel: een gemiddelde van de gezondheidsindex over 12 maanden, en uitkeringen en ambtenarenlonen eenmaal per jaar op 1 januari indexeren. De Commissie ziet het tekort op 5,2% van het bbp dit jaar en 5,5% in 2027.",
+   "geo": "De Houthi's troffen de Saoedische raffinaderij van Jazan en bij Hormuz werd op 25 november een tanker geraakt. Brent steeg op 27 november tot ongeveer 88,50 euro per vat, op weg naar de eerste weekwinst in vier weken. Energie- en cyberrisico blijven aandachtspunten.",
+   "politics": "Premier De Wever roept de partijvoorzitters van de meerderheid maandag 30 november om 14 uur opnieuw samen. Vooruit neemt enkel deel als de anderen een miljonairsbelasting bevestigen en de index niet aanraken, behalve via een akkoord van de sociale partners. MR zegt dat er geen indexsprong voorzien is en waarschuwt dat een val dramatisch zou zijn.",
+   "fiscal": "De laatste tabel bevatte volgens VRT 1,1 miljard euro aan indexbesparingen, waarvan 400 miljoen via een hervorming door de sociale partners. Op tafel liggen een 12-maandengemiddelde van de gezondheidsindex en een jaarlijkse indexering op 1 januari van uitkeringen en ambtenarenlonen. De Commissie ziet het tekort op 5,2% van het bbp dit jaar en 5,7% in 2028, met een schuld van 115,8%.",
    "social": "De nationale staking van 23 november is voorbij. De non-profit betoogt op 10 december in Brussel, en de vakbonden bij Skeyes dienden een stakingsaanzegging in voor 9 december tot 9 januari. In oktober waren er 1.130 faillissementen en de werkloosheid wordt dit jaar op 6,4% geraamd.",
-   "fr": "De enquête van de Banque de France van 17 november toont herstel in de industrie en vertraging in de diensten. Een gemengde commissie vergadert op 26 november over de sociale-zekerheidsbegroting 2027, die de Assemblée in oktober verwierp. De regering mikt op een tekort van 12,7 miljard euro in de sociale zekerheid in 2027.",
-   "gl": "Brent stond op 26 november rond 85,80 euro per vat terwijl de scheepvaart bij Hormuz verstoord blijft; OPEC+ vergadert op 29 november over de quota voor 2027. De inflatie in de eurozone bedroeg 4,0% in oktober (Eurostat) en de depositorente van de ECB blijft 2,50%."
+   "fr": "Afgevaardigden en senatoren raakten het op 26 november niet eens over de sociale-zekerheidsbegroting 2027. Een nieuwe lezing start in de Assemblée, met commissiewerk op 30 november en een plenair debat op 7 december. Nu de termijn van 50 dagen verstreken is, zou de regering ordonnanties kunnen gebruiken, al willen de ministers dat vermijden.",
+   "gl": "Brent stond op 27 november rond 88,50 euro per vat na nieuwe aanvallen op energie-installaties in de Golf; OPEC+ vergadert op 29 november over de quota voor 2027. De inflatie in de eurozone bedroeg 4,0% in oktober (Eurostat) en de depositorente van de ECB blijft op 2,50%."
   },
   "fr": {
    "econ": "La confiance des chefs d'entreprise BNB est tombée de -9,8 à -14,7 en novembre, au plus bas depuis 18 mois. L'inflation était de 5,26 % en octobre et l'indice-pivot devrait être dépassé en novembre. La Commission voit 0,7 % de croissance cette année.",
    "labour": "La Commission voit le chômage à 6,4 % cette année. Statbel a compté 1 130 faillites en octobre, et les annonces de licenciement collectif ont concerné 5 115 travailleurs au premier semestre 2026. L’indexation relève les salaires tandis que des sites industriels comme GSK et Vynova suppriment des emplois.",
-   "geo": "Les médias iraniens signalent des pétroliers ayant heurté des mines près d'Ormuz le 25 novembre, et les Houthis revendiquent une attaque contre la raffinerie saoudienne de Ras Tanura. Le Brent a bondi de 3,5 % ce jour-là puis a légèrement reculé vers 85,80 euros le baril le 26 novembre. Risques énergétique et cyber restent sous surveillance.",
-   "politics": "Le 25 novembre, Vooruit a choisi de rester pour l'instant, mais ne négociera plus que si les partenaires garantissent l'index des salaires et une contribution des millionnaires ; sinon, ils devront chercher une autre majorité. Le MR affirme qu'un saut d'index n'a jamais été prévu et le CD&V veut rester à la table, tandis qu'Anders propose ses sièges. L'échéance est le Nouvel An.",
-   "fiscal": "L'effort budgétaire est désormais estimé entre 13 et 14 milliards d'euros. Deux modifications de l'index sont sur la table : une moyenne de l'indice santé sur 12 mois, et une indexation des allocations et traitements des fonctionnaires une fois par an au 1er janvier. La Commission voit le déficit à 5,2 % du PIB cette année et 5,5 % en 2027.",
+   "geo": "Les Houthis ont frappé la raffinerie saoudienne de Jazan et un pétrolier a été touché près d'Ormuz le 25 novembre. Le Brent est monté vers 88,50 euros le baril le 27 novembre, en route pour sa première hausse hebdomadaire en quatre semaines. Énergie et risque cyber restent sous surveillance.",
+   "politics": "Le Premier ministre De Wever reconvoque les présidents de parti de la majorité lundi 30 novembre à 14 h. Vooruit ne participera que si les autres confirment une taxe sur les millionnaires et ne touchent à l'index que via un accord des partenaires sociaux. Le MR affirme qu'aucun saut d'index n'est prévu et prévient qu'une chute serait dramatique.",
+   "fiscal": "Le dernier tableau comptait selon la VRT 1,1 milliard d'euros d'économies liées à l'index, dont 400 millions via une réforme des partenaires sociaux. Sont évoquées une moyenne sur 12 mois de l'indice santé et une indexation annuelle au 1er janvier des allocations et des traitements publics. La Commission voit le déficit à 5,2 % du PIB cette année et 5,7 % en 2028, avec une dette de 115,8 %.",
    "social": "La grève nationale du 23 novembre est terminée. Le non-marchand manifeste à Bruxelles le 10 décembre, et les syndicats de skeyes ont déposé un préavis du 9 décembre au 9 janvier. On comptait 1 130 faillites en octobre et le chômage est attendu à 6,4 % cette année.",
-   "fr": "L'enquête de la Banque de France du 17 novembre montre une industrie qui se redresse et des services qui ralentissent. Une CMP se réunit le 26 novembre sur le budget 2027 de la Sécurité sociale, rejeté par l'Assemblée en octobre. Le gouvernement vise un déficit de la Sécurité sociale de 12,7 milliards d'euros en 2027.",
-   "gl": "Le Brent s'établissait vers 85,80 euros le baril le 26 novembre, la navigation près d'Ormuz restant perturbée ; l'OPEP+ se réunit le 29 novembre pour fixer les quotas 2027. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
+   "fr": "Députés et sénateurs ont échoué à s'accorder sur le budget 2027 de la Sécurité sociale le 26 novembre. Une nouvelle lecture s'ouvre à l'Assemblée, en commission le 30 novembre et en séance le 7 décembre. Le délai de 50 jours étant écoulé, le gouvernement pourrait recourir aux ordonnances, ce que les ministres disent vouloir éviter.",
+   "gl": "Le Brent se situait vers 88,50 euros le baril le 27 novembre après de nouvelles attaques contre des sites énergétiques du Golfe ; l'OPEP+ se réunit le 29 novembre pour fixer les quotas 2027. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
   }
  },
  "sources": [
   {
    "t": "NBB: business barometer November 2026 (24 Nov 2026)",
    "u": "https://www.nbb.be/fr/statistiques/themes/economie-belge/entreprises-et-conjoncture/confiance-des-chefs-dentreprise"
-  },
-  {
-   "t": "Banque de France: monthly business survey, start of November 2026 (17 Nov 2026)",
-   "u": "https://www.banque-france.fr/en/news/monthly-business-survey-start-november-2026"
   },
   {
    "t": "European Commission: Autumn 2026 economic forecast for Belgium (17 Nov 2026)",
@@ -508,12 +504,16 @@
    "u": "https://www.ecb.europa.eu/stats/shared/pdf/eurofxref.pdf"
   },
   {
-   "t": "Business Recorder/Reuters: oil prices fall as supply concerns linger after Iran claims mine strikes (26 Nov 2026)",
-   "u": "https://www.brecorder.com/news/40450825/oil-prices-fall-as-supply-concerns-linger-after-iran-claims-mine-strikes-on-ships"
+   "t": "VRT NWS: PM calls party leaders back on Monday, Vooruit sets conditions (26 Nov 2026)",
+   "u": "https://vrt.be/vrtnws/nl/liveblog/premier-roept-maandag-partijvoorzitters-bijeen-vooruit-komt-enk~1793247532380"
   },
   {
-   "t": "L'Avenir/Belga: index reform on the budget table (26 Nov 2026)",
-   "u": "https://www.lavenir.net/actu/belgique/2026/11/26/crise-gouvernementale-sur-le-budget-la-reforme-de-lindexation-ferait-perdre-un-a-deux-mois-de-salaire-en-10-ans-SXRBOKAN7FAO7BH45PAX7H7XBI/"
+   "t": "Public Sénat: 2027 social security budget, joint committee fails (26 Nov 2026)",
+   "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-echec-de-la-tentative-de-compromis-entre-deputes-et-senateurs"
+  },
+  {
+   "t": "Trading Economics: Brent set for first weekly gain in four (27 Nov 2026)",
+   "u": "https://tradingeconomics.com/commodity/brent-crude-oil"
   }
  ],
  "local": [
