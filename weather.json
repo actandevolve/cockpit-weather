@@ -1,11 +1,11 @@
 {
  "v": 5,
- "asof": "2026-11-28T05:42:55Z",
+ "asof": "2026-11-28T11:43:27Z",
  "region": "BE",
  "headline": {
-  "en": "Storm warning on politics: Vooruit threatens to skip Monday's 30 November budget meeting with the PM, while Brent holds near €88 a barrel before Sunday's OPEC+ meeting.",
-  "nl": "Stormweer voor de politiek: Vooruit dreigt maandag 30 november weg te blijven van het begrotingsoverleg met de premier, terwijl Brent voor de OPEC+-vergadering van zondag rond 88 euro per vat blijft.",
-  "fr": "Alerte tempête sur la politique : Vooruit menace de boycotter lundi 30 novembre la réunion budgétaire convoquée par le Premier ministre, tandis que le Brent reste vers 88 euros le baril avant la réunion de l'OPEP+ dimanche."
+  "en": "Storm warning on politics: Vooruit makes Monday's 30 November budget meeting depend on guarantees, while inflation eases to 5.09% and Brent ends the week near €87 a barrel.",
+  "nl": "Stormweer voor de politiek: Vooruit laat zijn aanwezigheid op het begrotingsoverleg van maandag 30 november afhangen van garanties, terwijl de inflatie zakt naar 5,09% en Brent de week rond 87 euro per vat afsluit.",
+  "fr": "Alerte tempête sur la politique : Vooruit conditionne sa présence à la réunion budgétaire du lundi 30 novembre à des garanties, tandis que l'inflation recule à 5,09 % et que le Brent finit la semaine vers 87 euros le baril."
  },
  "climate": {
   "geo": {
@@ -16,9 +16,9 @@
     "fr": "Les Houthis ont frappé la raffinerie saoudienne de Jazan et un nouveau pétrolier a été touché près d'Ormuz le 25 novembre : coûts énergétiques et risque cyber restent à surveiller pour les entreprises belges."
    },
    "gl": {
-    "en": "Brent reached about €88.20 a barrel on 27 November, its highest since 6 November, after attacks on tankers near Hormuz and on Saudi energy sites; OPEC+ meets on 29 November and is expected to keep its targets at least through the first quarter of 2027.",
-    "nl": "Brent bereikte op 27 november ongeveer 88,20 euro per vat, het hoogste peil sinds 6 november, na aanvallen op tankers bij Hormuz en op Saoedische energie-installaties; OPEC+ vergadert op 29 november en zou de doelen minstens tot het eerste kwartaal van 2027 behouden.",
-    "fr": "Le Brent a atteint environ 88,20 euros le baril le 27 novembre, son plus haut depuis le 6 novembre, après des attaques contre des pétroliers près d'Ormuz et des sites énergétiques saoudiens ; l'OPEP+ se réunit le 29 novembre et devrait maintenir ses objectifs au moins jusqu'au premier trimestre 2027."
+    "en": "Brent ended the week of 27 November at about €87 a barrel, its first weekly gain of November, after attacks on tankers near Hormuz and on Saudi energy sites; OPEC+ meets on 29 November and is expected to keep its targets for the first quarter of 2027.",
+    "nl": "Brent sloot de week van 27 november af rond 87 euro per vat, de eerste weekwinst van november, na aanvallen op tankers bij Hormuz en op Saoedische energie-installaties; OPEC+ vergadert op 29 november en zou de doelen voor het eerste kwartaal van 2027 behouden.",
+    "fr": "Le Brent a terminé la semaine du 27 novembre vers 87 euros le baril, sa première hausse hebdomadaire de novembre, après des attaques contre des pétroliers près d'Ormuz et des sites énergétiques saoudiens ; l'OPEP+ se réunit le 29 novembre et devrait maintenir ses objectifs pour le premier trimestre 2027."
    }
   },
   "social": {
@@ -32,9 +32,9 @@
   "econ": {
    "lv": 2,
    "be": {
-    "en": "The NBB business barometer fell from -9.8 to -14.7 in November, its lowest in 18 months, with only construction slightly better; inflation stood at 5.26% in October (Statbel, via the Planning Bureau) and the Commission sees growth of only 0.7% in 2026.",
-    "nl": "De NBB-conjunctuurbarometer zakte in november van -9,8 naar -14,7, het laagste peil in 18 maanden, met enkel de bouw licht beter; de inflatie bedroeg 5,26% in oktober (Statbel, via het Planbureau) en de Commissie ziet slechts 0,7% groei in 2026.",
-    "fr": "Le baromètre de conjoncture de la BNB est tombé de -9,8 à -14,7 en novembre, son plus bas depuis 18 mois, seule la construction s'améliorant légèrement ; l'inflation atteignait 5,26 % en octobre (Statbel, via le Bureau du Plan) et la Commission ne voit que 0,7 % de croissance en 2026."
+    "en": "Inflation eased to 5.09% in November from 5.26% in October, with energy still up 33.7% year on year (Statbel); the NBB business barometer fell to -14.7, an 18-month low, and the Commission sees growth of only 0.7% in 2026.",
+    "nl": "De inflatie zakte in november naar 5,09%, na 5,26% in oktober, met energie nog 33,7% duurder dan een jaar eerder (Statbel); de NBB-conjunctuurbarometer viel naar -14,7, het laagste in 18 maanden, en de Commissie ziet slechts 0,7% groei in 2026.",
+    "fr": "L'inflation a reculé à 5,09 % en novembre, après 5,26 % en octobre, l'énergie restant 33,7 % plus chère qu'il y a un an (Statbel) ; le baromètre de conjoncture de la BNB est tombé à -14,7, au plus bas depuis 18 mois, et la Commission ne voit que 0,7 % de croissance en 2026."
    },
    "gl": {
     "en": "Euro area inflation rose to 4.0% in October (Eurostat, 18 November), driven by energy; the ECB deposit rate stays at 2.50%.",
@@ -45,9 +45,9 @@
   "fiscal": {
    "lv": 2,
    "be": {
-    "en": "Vooruit threatened on 27 November to stay away from Monday's meeting of party leaders unless the index and a millionaires' tax are guaranteed; the partners reject these demands and the PM has set 31 December as the deadline. The Commission sees the deficit at 5.2% of GDP this year, rising to 5.7% in 2028 under unchanged policy.",
-    "nl": "Vooruit dreigde op 27 november weg te blijven van het overleg van de partijvoorzitters maandag, tenzij de index en een miljonairsbelasting gegarandeerd worden; de partners verwerpen die eisen en de premier legt de deadline op 31 december. De Commissie ziet het tekort dit jaar op 5,2% van het bbp en bij ongewijzigd beleid op 5,7% in 2028.",
-    "fr": "Vooruit a menacé le 27 novembre de ne pas venir à la réunion des présidents de parti lundi sans garanties sur l'index et une taxe sur les millionnaires ; les partenaires rejettent ces exigences et le Premier ministre fixe l'échéance au 31 décembre. La Commission voit le déficit à 5,2 % du PIB cette année et à 5,7 % en 2028 à politique inchangée."
+    "en": "Vooruit will only attend Monday's 30 November meeting of party leaders if the index and a millionaires' contribution are guaranteed in advance; the partners have not given these guarantees and the PM has set 31 December as the deadline. The Commission sees the deficit at 5.2% of GDP this year, rising to 5.7% in 2028 under unchanged policy.",
+    "nl": "Vooruit komt maandag 30 november enkel naar het overleg van de partijvoorzitters als de index en een miljonairsbijdrage vooraf gegarandeerd worden; de partners gaven die garanties niet en de premier legt de deadline op 31 december. De Commissie ziet het tekort dit jaar op 5,2% van het bbp en bij ongewijzigd beleid op 5,7% in 2028.",
+    "fr": "Vooruit ne viendra lundi 30 novembre à la réunion des présidents de parti que si l'index et une contribution des millionnaires sont garantis d'avance ; les partenaires n'ont pas donné ces garanties et le Premier ministre fixe l'échéance au 31 décembre. La Commission voit le déficit à 5,2 % du PIB cette année et à 5,7 % en 2028 à politique inchangée."
    }
   },
   "fr": {
@@ -71,9 +71,9 @@
     "other": 0
    },
    "brief": {
-    "en": "NBB business confidence fell to -14.7 in November, lowest in 18 months; inflation 5.26% in October.",
-    "nl": "NBB-ondernemersvertrouwen zakte in november naar -14,7, laagste in 18 maanden; inflatie 5,26% in oktober.",
-    "fr": "Confiance des chefs d'entreprise BNB à -14,7 en novembre, au plus bas depuis 18 mois ; inflation 5,26 % en octobre."
+    "en": "Inflation eased to 5.09% in November (Statbel); NBB business confidence at -14.7, lowest in 18 months.",
+    "nl": "Inflatie zakte naar 5,09% in november (Statbel); NBB-ondernemersvertrouwen op -14,7, laagste in 18 maanden.",
+    "fr": "Inflation en recul à 5,09 % en novembre (Statbel) ; confiance BNB à -14,7, au plus bas depuis 18 mois."
    },
    "thr": {
     "en": "Clients could postpone orders while costs and wage indexation keep rising, squeezing margins over the winter.",
@@ -100,14 +100,14 @@
     "other": 0
    },
    "brief": {
-    "en": "Budget talks weigh a 12-month average for the wage index; 1,130 bankruptcies in October (Statbel).",
-    "nl": "Begrotingsgesprekken wegen een 12-maandengemiddelde voor de loonindex af; 1.130 faillissementen in oktober (Statbel).",
-    "fr": "Le budget envisage une moyenne sur 12 mois pour l'index ; 1 130 faillites en octobre (Statbel)."
+    "en": "Health index up 4.7% in November (Statbel); about one million employees get indexed wages in January.",
+    "nl": "Gezondheidsindex 4,7% hoger in november (Statbel); ongeveer een miljoen werknemers krijgen in januari een indexering.",
+    "fr": "Indice santé en hausse de 4,7 % en novembre (Statbel) ; environ un million de salariés indexés en janvier."
    },
    "thr": {
-    "en": "Indexation raises payroll before revenue follows, and a reform of the index calculation could still change wage costs for 2027.",
-    "nl": "De indexering verhoogt de loonkost voor de omzet volgt, en een hervorming van de indexberekening kan de loonkosten voor 2027 nog wijzigen.",
-    "fr": "L'indexation alourdit la masse salariale avant que le chiffre d'affaires ne suive, et une réforme du calcul de l'index pourrait encore modifier les coûts salariaux 2027."
+    "en": "January indexation, estimated at 4.41% for joint committee 200 (Acerta), raises payroll before revenue follows, while an index reform could still change 2027 wage costs.",
+    "nl": "De indexering in januari, geraamd op 4,41% voor paritair comité 200 (Acerta), verhoogt de loonkost voor de omzet volgt, terwijl een indexhervorming de loonkosten voor 2027 nog kan wijzigen.",
+    "fr": "L'indexation de janvier, estimée à 4,41 % pour la commission paritaire 200 (Acerta), alourdit la masse salariale avant que le chiffre d'affaires ne suive, et une réforme de l'index pourrait encore modifier les coûts salariaux 2027."
    },
    "opp": {
     "en": "Clear communication on total pay and benefits could help retain staff while purchasing power is under pressure.",
@@ -129,9 +129,9 @@
     "other": 0
    },
    "brief": {
-    "en": "Brent at about €88.20 a barrel on 27 November, highest since 6 November, after new Gulf attacks.",
-    "nl": "Brent op ongeveer 88,20 euro per vat op 27 november, hoogste sinds 6 november, na nieuwe aanvallen in de Golf.",
-    "fr": "Brent vers 88,20 euros le baril le 27 novembre, plus haut depuis le 6 novembre, après de nouvelles attaques dans le Golfe."
+    "en": "Brent ended the week near €87 a barrel, its first weekly gain of November, after Gulf attacks.",
+    "nl": "Brent sloot de week rond 87 euro per vat, de eerste weekwinst van november, na aanvallen in de Golf.",
+    "fr": "Le Brent a fini la semaine vers 87 euros le baril, première hausse hebdomadaire de novembre, après des attaques dans le Golfe."
    },
    "thr": {
     "en": "Energy and transport costs could keep rising while Hormuz runs at half capacity, and conflicts of this kind usually bring more cyberattacks.",
@@ -158,9 +158,9 @@
     "other": 0
    },
    "brief": {
-    "en": "Vooruit threatens to skip Monday's party-leader meeting; partners call its index and millionaires' demands unrealistic.",
-    "nl": "Vooruit dreigt maandag weg te blijven van het voorzittersoverleg; partners noemen de eisen over index en miljonairs onrealistisch.",
-    "fr": "Vooruit menace de boycotter la réunion des présidents lundi ; les partenaires jugent irréalistes ses exigences sur l'index et les millionnaires."
+    "en": "Vooruit attends Monday's party-leader meeting only with prior guarantees on the index and millionaires; partners refuse so far.",
+    "nl": "Vooruit komt maandag enkel naar het voorzittersoverleg met vooraf garanties over index en miljonairs; partners weigeren tot nu.",
+    "fr": "Vooruit ne vient lundi à la réunion des présidents qu'avec des garanties préalables sur l'index et les millionnaires ; refus des partenaires jusqu'ici."
    },
    "thr": {
     "en": "If partners refuse the ultimatum, a search for another majority or provisional twelfths could freeze public orders and the 2027 tax rules for months.",
@@ -282,9 +282,9 @@
    "s": -1,
    "fn": "fleet",
    "ch": {
-    "en": "Statbel counted a record 633 bankruptcies in transport and storage from January to September (Logistiek.be); fuel costs rise again with Brent near €88 a barrel and Skeyes unions filed a strike notice for 9 December to 9 January.",
-    "nl": "Statbel telde van januari tot september een record van 633 faillissementen in vervoer en opslag (Logistiek.be); de brandstofkosten stijgen opnieuw met Brent rond 88 euro per vat en de vakbonden bij Skeyes dienden een stakingsaanzegging in voor 9 december tot 9 januari.",
-    "fr": "Statbel a recensé un record de 633 faillites dans le transport et l'entreposage de janvier à septembre (Logistiek.be) ; le carburant renchérit à nouveau avec le Brent vers 88 euros le baril et les syndicats de skeyes ont déposé un préavis du 9 décembre au 9 janvier."
+    "en": "Statbel counted a record 633 bankruptcies in transport and storage from January to September (Logistiek.be); fuel costs rise again with Brent near €87 a barrel and Skeyes unions filed a strike notice for 9 December to 9 January.",
+    "nl": "Statbel telde van januari tot september een record van 633 faillissementen in vervoer en opslag (Logistiek.be); de brandstofkosten stijgen opnieuw met Brent rond 87 euro per vat en de vakbonden bij Skeyes dienden een stakingsaanzegging in voor 9 december tot 9 januari.",
+    "fr": "Statbel a recensé un record de 633 faillites dans le transport et l'entreposage de janvier à septembre (Logistiek.be) ; le carburant renchérit à nouveau avec le Brent vers 87 euros le baril et les syndicats de skeyes ont déposé un préavis du 9 décembre au 9 janvier."
    },
    "op": {
     "en": "A clear fuel and index clause in rates, backed by route data, could turn cost increases into a fair, accepted price.",
@@ -387,9 +387,9 @@
    "s": 0,
    "fn": "strat",
    "ch": {
-    "en": "Business confidence at an 18-month low (NBB), inflation above 5% and a budget stuck on the index and a millionaires' contribution weigh on most companies this month.",
-    "nl": "Ondernemersvertrouwen op het laagste in 18 maanden (NBB), inflatie boven 5% en een begroting die vastzit op de index en een miljonairsbijdrage wegen deze maand op de meeste bedrijven.",
-    "fr": "Une confiance des chefs d'entreprise au plus bas depuis 18 mois (BNB), une inflation supérieure à 5 % et un budget bloqué sur l'index et une contribution des millionnaires pèsent ce mois-ci sur la plupart des entreprises."
+    "en": "Business confidence at an 18-month low (NBB), inflation still at 5.09% (Statbel) and a budget stuck on the index and a millionaires' contribution weigh on most companies this month.",
+    "nl": "Ondernemersvertrouwen op het laagste in 18 maanden (NBB), een inflatie van nog 5,09% (Statbel) en een begroting die vastzit op de index en een miljonairsbijdrage wegen deze maand op de meeste bedrijven.",
+    "fr": "Une confiance des chefs d'entreprise au plus bas depuis 18 mois (BNB), une inflation encore à 5,09 % (Statbel) et un budget bloqué sur l'index et une contribution des millionnaires pèsent ce mois-ci sur la plupart des entreprises."
    },
    "op": {
     "en": "A company that plans in two scenarios and adjusts prices early could move first when the budget lands.",
@@ -430,6 +430,10 @@
   {
    "t": "VRT NWS: Skeyes rejects month-long strike notice (24 Nov 2026)",
    "u": "https://www.vrt.be/vrtnws/nl/2026/11/24/skeyes-verwerpt-stakingsaanzegging-van-een-maand/"
+  },
+  {
+   "t": "Khaleej Times: Houthi missile on Riyadh intercepted (28 Nov 2026)",
+   "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-28-2026"
   }
  ],
  "levels": {
@@ -444,37 +448,45 @@
  },
  "l": {
   "en": {
-   "econ": "NBB business confidence fell from -9.8 to -14.7 in November, the lowest in 18 months. Inflation was 5.26% in October and the pivot index is expected to be exceeded in November. The Commission sees growth of 0.7% this year.",
-   "labour": "The Commission sees unemployment at 6.4% this year. Statbel counted 1,130 bankruptcies in October, and collective-dismissal notices covered 5,115 workers in the first half of 2026. Indexation lifts wages while industrial sites such as GSK and Vynova shed jobs.",
-   "geo": "Houthi attacks on Saudi energy sites and tankers near Hormuz continue. Brent reached about €88.20 a barrel on 27 November, its highest since 6 November, and OPEC+ meets on 29 November. Energy and cyber risk stay on the watch list.",
-   "politics": "PM De Wever calls the majority's party leaders back on Monday 30 November at 14:00. On 27 November Vooruit threatened not to attend without guarantees on automatic indexation and a millionaires' tax; the partners call these demands unrealistic. The PM has set 31 December as the deadline and has raised resigning if it fails.",
+   "econ": "Inflation eased to 5.09% in November from 5.26% in October; energy is still 33.7% dearer than a year ago while core inflation fell to 2.47% (Statbel). The health index rose 4.7% year on year. NBB business confidence fell to -14.7 in November, the lowest in 18 months, and the Commission sees growth of 0.7% this year.",
+   "labour": "Acerta estimates that about one million employees get a wage indexation in January, 4.41% for joint committee 200. Statbel counted 1,130 bankruptcies in October and the Commission sees unemployment at 6.4% this year. Industrial sites such as GSK and Vynova shed jobs.",
+   "geo": "Houthi attacks on Saudi energy sites and tankers near Hormuz continue, and a Houthi cruise missile aimed at Riyadh was intercepted on 28 November. Brent ended the week at about €87 a barrel and OPEC+ meets on 29 November. Energy and cyber risk stay on the watch list.",
+   "politics": "PM De Wever calls the majority's party leaders back on Monday 30 November at 14:00. Vooruit will only come if the others confirm in advance a millionaires' contribution and no change to the index outside a social-partner deal; Rousseau said his party would not block an alternative majority. The PM has set 31 December as the deadline.",
    "fiscal": "The latest table reportedly held €1.1 billion of index-related savings, of which €400 million would come from a social-partner reform. Ideas include a 12-month average of the health index and indexing benefits and civil-servant pay once a year on 1 January. The Commission sees the deficit at 5.2% of GDP this year and 5.7% in 2028, with debt at 115.8%.",
    "social": "The national strike of 23 November is over. The non-profit sector marches in Brussels on 10 December, and Skeyes unions filed a strike notice for 9 December to 9 January. Bankruptcies stood at 1,130 in October and unemployment is seen at 6.4% this year.",
    "fr": "Deputies and senators failed to agree on the 2027 social security budget on 26 November. A new reading opens at the Assemblée, with committee work on 30 November and floor debate on 7 December. With the 50-day window expired, the government could use ordinances, though ministers say they want to avoid that.",
-   "gl": "Brent reached about €88.20 a barrel on 27 November after new attacks on Gulf energy sites; OPEC+ meets on 29 November and is expected to hold targets through early 2027. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
+   "gl": "Brent ended the week of 27 November at about €87 a barrel, its first weekly gain of November, after attacks on Gulf energy sites; OPEC+ meets on 29 November and is expected to hold targets for the first quarter of 2027. Euro area inflation was 4.0% in October (Eurostat) and the ECB deposit rate stays at 2.50%."
   },
   "nl": {
-   "econ": "Het NBB-ondernemersvertrouwen zakte in november van -9,8 naar -14,7, het laagste in 18 maanden. De inflatie was 5,26% in oktober en de spilindex wordt in november overschreden verwacht. De Commissie ziet 0,7% groei dit jaar.",
-   "labour": "De Commissie ziet de werkloosheid dit jaar op 6,4%. Statbel telde 1.130 faillissementen in oktober, en in de eerste helft van 2026 betroffen aangekondigde collectieve ontslagen 5.115 werknemers. Indexering verhoogt de lonen terwijl industriële sites zoals GSK en Vynova banen schrappen.",
-   "geo": "De Houthi-aanvallen op Saoedische energie-installaties en tankers bij Hormuz gaan door. Brent bereikte op 27 november ongeveer 88,20 euro per vat, het hoogste sinds 6 november, en OPEC+ vergadert op 29 november. Energie- en cyberrisico blijven aandachtspunten.",
-   "politics": "Premier De Wever roept de partijvoorzitters van de meerderheid maandag 30 november om 14 uur opnieuw samen. Vooruit dreigde op 27 november niet te komen zonder garanties over de automatische indexering en een miljonairsbelasting; de partners noemen die eisen onrealistisch. De premier legt de deadline op 31 december en sprak over ontslag als het mislukt.",
+   "econ": "De inflatie zakte in november naar 5,09%, na 5,26% in oktober; energie is nog 33,7% duurder dan een jaar geleden, terwijl de kerninflatie daalde naar 2,47% (Statbel). De gezondheidsindex lag 4,7% hoger dan een jaar eerder. Het NBB-ondernemersvertrouwen viel in november naar -14,7, het laagste in 18 maanden, en de Commissie ziet 0,7% groei dit jaar.",
+   "labour": "Acerta schat dat ongeveer een miljoen werknemers in januari een loonindexering krijgen, 4,41% voor paritair comité 200. Statbel telde 1.130 faillissementen in oktober en de Commissie ziet de werkloosheid dit jaar op 6,4%. Industriële sites zoals GSK en Vynova schrappen banen.",
+   "geo": "De Houthi-aanvallen op Saoedische energie-installaties en tankers bij Hormuz gaan door, en op 28 november werd een Houthi-kruisraket richting Riyad onderschept. Brent sloot de week af rond 87 euro per vat en OPEC+ vergadert op 29 november. Energie- en cyberrisico blijven aandachtspunten.",
+   "politics": "Premier De Wever roept de partijvoorzitters van de meerderheid maandag 30 november om 14 uur opnieuw samen. Vooruit komt enkel als de anderen vooraf een miljonairsbijdrage bevestigen en geen indexwijziging buiten een akkoord van de sociale partners; Rousseau zei dat zijn partij een alternatieve meerderheid niet zal tegenhouden. De premier legt de deadline op 31 december.",
    "fiscal": "De laatste tabel bevatte volgens VRT 1,1 miljard euro aan indexbesparingen, waarvan 400 miljoen via een hervorming door de sociale partners. Op tafel liggen een 12-maandengemiddelde van de gezondheidsindex en een jaarlijkse indexering op 1 januari van uitkeringen en ambtenarenlonen. De Commissie ziet het tekort op 5,2% van het bbp dit jaar en 5,7% in 2028, met een schuld van 115,8%.",
    "social": "De nationale staking van 23 november is voorbij. De non-profit betoogt op 10 december in Brussel, en de vakbonden bij Skeyes dienden een stakingsaanzegging in voor 9 december tot 9 januari. In oktober waren er 1.130 faillissementen en de werkloosheid wordt dit jaar op 6,4% geraamd.",
    "fr": "Afgevaardigden en senatoren raakten het op 26 november niet eens over de sociale-zekerheidsbegroting 2027. Een nieuwe lezing start in de Assemblée, met commissiewerk op 30 november en een plenair debat op 7 december. Nu de termijn van 50 dagen verstreken is, zou de regering ordonnanties kunnen gebruiken, al willen de ministers dat vermijden.",
-   "gl": "Brent bereikte op 27 november ongeveer 88,20 euro per vat na nieuwe aanvallen op energie-installaties in de Golf; OPEC+ vergadert op 29 november en zou de doelen tot begin 2027 aanhouden. De inflatie in de eurozone bedroeg 4,0% in oktober (Eurostat) en de depositorente van de ECB blijft op 2,50%."
+   "gl": "Brent sloot de week van 27 november af rond 87 euro per vat, de eerste weekwinst van november, na aanvallen op energie-installaties in de Golf; OPEC+ vergadert op 29 november en zou de doelen voor het eerste kwartaal van 2027 aanhouden. De inflatie in de eurozone bedroeg 4,0% in oktober (Eurostat) en de depositorente van de ECB blijft op 2,50%."
   },
   "fr": {
-   "econ": "La confiance des chefs d'entreprise BNB est tombée de -9,8 à -14,7 en novembre, au plus bas depuis 18 mois. L'inflation était de 5,26 % en octobre et l'indice-pivot devrait être dépassé en novembre. La Commission voit 0,7 % de croissance cette année.",
-   "labour": "La Commission voit le chômage à 6,4 % cette année. Statbel a compté 1 130 faillites en octobre, et les annonces de licenciement collectif ont concerné 5 115 travailleurs au premier semestre 2026. L’indexation relève les salaires tandis que des sites industriels comme GSK et Vynova suppriment des emplois.",
-   "geo": "Les attaques houthies contre des sites énergétiques saoudiens et des pétroliers près d'Ormuz se poursuivent. Le Brent a atteint environ 88,20 euros le baril le 27 novembre, son plus haut depuis le 6 novembre, et l'OPEP+ se réunit le 29 novembre. Énergie et risque cyber restent sous surveillance.",
-   "politics": "Le Premier ministre De Wever reconvoque les présidents de parti de la majorité lundi 30 novembre à 14 h. Le 27 novembre, Vooruit a menacé de ne pas venir sans garanties sur l'indexation automatique et une taxe sur les millionnaires ; les partenaires jugent ces exigences irréalistes. Le Premier ministre fixe l'échéance au 31 décembre et a évoqué sa démission en cas d'échec.",
+   "econ": "L'inflation a reculé à 5,09 % en novembre, après 5,26 % en octobre ; l'énergie reste 33,7 % plus chère qu'il y a un an, tandis que l'inflation sous-jacente est tombée à 2,47 % (Statbel). L'indice santé a progressé de 4,7 % sur un an. La confiance des chefs d'entreprise BNB est tombée à -14,7 en novembre, au plus bas depuis 18 mois, et la Commission voit 0,7 % de croissance cette année.",
+   "labour": "Acerta estime qu'environ un million de salariés seront indexés en janvier, de 4,41 % pour la commission paritaire 200. Statbel a compté 1 130 faillites en octobre et la Commission voit le chômage à 6,4 % cette année. Des sites industriels comme GSK et Vynova suppriment des emplois.",
+   "geo": "Les attaques houthies contre des sites énergétiques saoudiens et des pétroliers près d'Ormuz se poursuivent, et un missile de croisière houthi visant Riyad a été intercepté le 28 novembre. Le Brent a fini la semaine vers 87 euros le baril et l'OPEP+ se réunit le 29 novembre. Énergie et risque cyber restent sous surveillance.",
+   "politics": "Le Premier ministre De Wever reconvoque les présidents de parti de la majorité lundi 30 novembre à 14 h. Vooruit ne viendra que si les autres confirment d'avance une contribution des millionnaires et aucune modification de l'index hors accord des partenaires sociaux ; Rousseau a dit que son parti ne bloquerait pas une majorité alternative. Le Premier ministre fixe l'échéance au 31 décembre.",
    "fiscal": "Le dernier tableau comptait selon la VRT 1,1 milliard d'euros d'économies liées à l'index, dont 400 millions via une réforme des partenaires sociaux. Sont évoquées une moyenne sur 12 mois de l'indice santé et une indexation annuelle au 1er janvier des allocations et des traitements publics. La Commission voit le déficit à 5,2 % du PIB cette année et 5,7 % en 2028, avec une dette de 115,8 %.",
    "social": "La grève nationale du 23 novembre est terminée. Le non-marchand manifeste à Bruxelles le 10 décembre, et les syndicats de skeyes ont déposé un préavis du 9 décembre au 9 janvier. On comptait 1 130 faillites en octobre et le chômage est attendu à 6,4 % cette année.",
    "fr": "Députés et sénateurs ont échoué à s'accorder sur le budget 2027 de la Sécurité sociale le 26 novembre. Une nouvelle lecture s'ouvre à l'Assemblée, en commission le 30 novembre et en séance le 7 décembre. Le délai de 50 jours étant écoulé, le gouvernement pourrait recourir aux ordonnances, ce que les ministres disent vouloir éviter.",
-   "gl": "Le Brent a atteint environ 88,20 euros le baril le 27 novembre après de nouvelles attaques contre des sites énergétiques du Golfe ; l'OPEP+ se réunit le 29 novembre et devrait maintenir ses objectifs jusqu'au début 2027. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
+   "gl": "Le Brent a terminé la semaine du 27 novembre vers 87 euros le baril, sa première hausse hebdomadaire de novembre, après des attaques contre des sites énergétiques du Golfe ; l'OPEP+ se réunit le 29 novembre et devrait maintenir ses objectifs au premier trimestre 2027. L'inflation de la zone euro était de 4,0 % en octobre (Eurostat) et le taux de dépôt de la BCE reste à 2,50 %."
   }
  },
  "sources": [
+  {
+   "t": "Statbel: health index by month, November 2026 (be.STAT, 27 Nov 2026)",
+   "u": "https://bestat.statbel.fgov.be/bestat/api/views/d9a303dc-d393-4686-8fe2-234e03a857b8/result/HTML"
+  },
+  {
+   "t": "VRT NWS: inflation falls to 5.09% in November, Statbel figures (27 Nov 2026)",
+   "u": "https://www.vrt.be/vrtnws/nl/2026/11/27/inflatie-november/"
+  },
   {
    "t": "NBB: business barometer November 2026 (24 Nov 2026)",
    "u": "https://www.nbb.be/fr/statistiques/themes/economie-belge/entreprises-et-conjoncture/confiance-des-chefs-dentreprise"
@@ -482,10 +494,6 @@
   {
    "t": "European Commission: Autumn 2026 economic forecast for Belgium (17 Nov 2026)",
    "u": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-economies/belgium/economic-forecast-belgium_en"
-  },
-  {
-   "t": "Federal Planning Bureau: inflation forecasts and October CPI (3 Nov 2026)",
-   "u": "https://www.plan.be/en/data/consumer-price-index-inflation-forecasts"
   },
   {
    "t": "Statbel: bankruptcies, 1,130 in October 2026 (Nov 2026)",
@@ -504,16 +512,12 @@
    "u": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
   },
   {
-   "t": "Public Sénat: 2027 social security budget, joint committee fails (26 Nov 2026)",
-   "u": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-echec-de-la-tentative-de-compromis-entre-deputes-et-senateurs"
+   "t": "VRT NWS liveblog: Vooruit attends Monday only with guarantees (26 Nov 2026)",
+   "u": "https://vrt.be/vrtnws/nl/liveblog/rousseau-na-overleg-mijn-vragen-zijn-niet-beantwoord-regerin~1793247532380"
   },
   {
-   "t": "21News: Conner Rousseau threatens to boycott De Wever's meeting (27 Nov 2026)",
-   "u": "https://www.21news.be/budget-federal-conner-rousseau-menace-de-boycotter-la-reunion-convoquee-par-bart-de-wever/"
-  },
-  {
-   "t": "UNN (Reuters): oil breaks a three-week price decline (27 Nov 2026)",
-   "u": "https://unn.ua/en/news/oil-breaks-a-three-week-price-decline-what-is-the-reason"
+   "t": "FinanceFeeds: Brent before Sunday's OPEC+ meeting (27 Nov 2026)",
+   "u": "https://financefeeds.com/brent-crude-oil-price-96-30-friday-opec-plus-set-to-hold-q1-output-sunday-bull-100-bear-92-57/"
   }
  ],
  "local": []
